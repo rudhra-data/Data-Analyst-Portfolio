@@ -86,7 +86,17 @@ The company needed answers to five questions:
 
 The Power BI dashboard is a 5-page interactive report driven by a star schema and DAX measures. The source file is [`powerbi/RetailEdge_Dashboard.pbix`](powerbi/RetailEdge_Dashboard.pbix).
 
-<!-- Dashboard screenshots belong here - add your page screenshots under reports/dashboard/ and embed them below -->
+![Home](reports/dashboard/Home.png)
+
+![Executive](reports/dashboard/Executive.png)
+
+![Customers](reports/dashboard/Customers.png)
+
+![Products](reports/dashboard/Products.png)
+
+![Payments](reports/dashboard/Payments.png)
+
+![Regions](reports/dashboard/Regions.png)
 
 ---
 
