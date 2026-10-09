@@ -1,0 +1,1001 @@
+customer_id,name,email,phone,city,state,country,signup_date,membership_tier
+CUST00001,Rekha Gupta,riya.nair@email.com,+919536146025,Delhi,Gujarat,India,2024-10-16,Basic
+CUST00002,Priya Das,anjali.menon@email.com,+918801823908,Jaipur,Tamil Nadu,India,2023-01-31,Platinum
+CUST00003,Riya Kumar,aarav.patel@email.com,+917924765563,Hyderabad,Telangana,India,2024-08-26,Basic
+CUST00004,Sunil Das,amit.desai@email.com,+917536124280,Mumbai,Gujarat,India,2023-04-05,Basic
+CUST00005,Aditya Nair,lata.desai@email.com,+918242911821,Delhi,Delhi,India,2024-07-19,Silver
+CUST00006,Neha Iyer,sunil.desai@email.com,+919935814872,Hyderabad,Delhi,India,2023-04-14,Silver
+CUST00007,Anjali Joshi,ananya.chauhan@email.com,+917240251661,Jaipur,Tamil Nadu,India,2024-06-30,Basic
+CUST00008,Rahul Reddy,arjun.reddy@email.com,+919815087637,Lucknow,Rajasthan,India,2023-11-20,Platinum
+CUST00009,Rekha Iyer,aisha.kumar@email.com,+919510777721,Jaipur,Gujarat,India,2024-10-20,Platinum
+CUST00010,Krishna Kumar,ishaan.menon@email.com,+919694860228,Mumbai,Karnataka,India,2024-01-06,Platinum
+CUST00011,Aisha Das,vikram.mukherjee@email.com,+917049310608,Jaipur,Delhi,India,2024-09-02,Gold
+CUST00012,Aisha Menon,shreya.tiwari@email.com,+917767303988,Mumbai,UP,India,2024-10-18,Basic
+CUST00013,Ananya Das,kavita.mukherjee@email.com,+919277851678,Hyderabad,Maharashtra,India,2024-10-02,Gold
+CUST00014,Kavya Verma,,+918034535593,Kolkata,Kerala,India,2024-05-15,Basic
+CUST00015,Meera Das,arjun.das@email.com,+917709214891,Bangalore,West Bengal,India,2023-03-29,Platinum
+CUST00016,Deepak Menon,priya.mishra@email.com,+918939118223,Hyderabad,Delhi,India,2023-08-05,Silver
+CUST00017,Anjali Sharma,vivaan.banerjee@email.com,+917304912982,Lucknow,Maharashtra,India,2023-08-19,Silver
+CUST00018,Nisha Reddy,rohit.gupta@email.com,+919315992115,Kolkata,Karnataka,India,2023-03-11,Platinum
+CUST00019,Amit Tiwari,rajesh.reddy@email.com,+918765670844,Pune,Rajasthan,India,2023-09-06,Basic
+CUST00020,Reyansh Nair,reyansh.verma@email.com,+917822873088,Hyderabad,Tamil Nadu,India,2024-11-20,Platinum
+CUST00021,Deepak Das,riya.chauhan@email.com,+917420514789,Delhi,Maharashtra,India,2023-05-24,Basic
+CUST00022,Neha Pandey,kavya.patel@email.com,+917251837136,Ahmedabad,Karnataka,India,2023-04-06,Platinum
+CUST00023,Nisha Kumar,aisha.chauhan@email.com,+917815605132,Jaipur,West Bengal,India,2023-01-03,Silver
+CUST00024,Vihaan Banerjee,rekha.verma@email.com,+919047791082,Mumbai,UP,India,2023-03-01,Silver
+CUST00025,Kavya Pandey,sai.patel@email.com,+917514909066,Delhi,Kerala,India,2023-02-28,Silver
+CUST00026,Sita Menon,lata.gupta@email.com,+918358798143,Lucknow,West Bengal,India,2024-08-15,Silver
+CUST00027,Sunil Joshi,kavya.iyer@email.com,+917311570307,Kolkata,Maharashtra,India,2024-11-16,Platinum
+CUST00028,Aisha Kumar,reyansh.gupta@email.com,+918498981529,Jaipur,Delhi,India,2024-09-28,Silver
+CUST00029,Sunita Sharma,deepak.das@email.com,+919868450609,Lucknow,UP,India,2024-01-14,Gold
+CUST00030,Geeta Kumar,ishaan.iyer@email.com,+918169726681,Delhi,West Bengal,India,2024-11-10,Silver
+CUST00031,Sai Tiwari,aisha.menon@email.com,+918188332531,Mumbai,Maharashtra,India,2023-12-18,Basic
+CUST00032,Manoj Das,aisha.patel@email.com,+917041531046,Jaipur,Delhi,India,2023-12-08,Basic
+CUST00033,Ishaan Verma,sanjay.banerjee@email.com,+918323959527,Pune,Telangana,India,2023-06-02,Basic
+CUST00034,Rajesh Mukherjee,kavya.singh@email.com,+917663801533,Jaipur,Tamil Nadu,India,2024-01-02,Silver
+CUST00035,Rajesh Nair,vivaan.patel@email.com,+918145921803,Hyderabad,Karnataka,India,2023-07-01,Basic
+CUST00036,Amit Mishra,meera.nair@email.com,+917977515194,Ahmedabad,Tamil Nadu,India,2024-01-27,Basic
+CUST00037,Amit Menon,rohit.iyer@email.com,+918716605598,Kolkata,UP,India,2024-11-06,Gold
+CUST00038,Aditya Singh,aisha.patel@email.com,+919562254028,Kolkata,Gujarat,India,2023-01-29,Gold
+CUST00039,Priya Iyer,kavita.singh@email.com,+917190638698,Lucknow,Gujarat,India,2023-11-18,Basic
+CUST00040,Rohit Mukherjee,rekha.reddy@email.com,+918348257414,Delhi,Delhi,India,2024-06-16,Gold
+CUST00041,Geeta Kumar,rajesh.joshi@email.com,+917823946934,Kolkata,Gujarat,India,2024-06-03,Platinum
+CUST00042,Geeta Sharma,diya.mukherjee@email.com,+918305132983,Pune,West Bengal,India,2024-11-24,Silver
+CUST00043,Neha Menon,gita.joshi@email.com,+919032319170,Ahmedabad,Karnataka,India,2024-03-16,Basic
+CUST00044,Pooja Nair,lata.joshi@email.com,+917855256552,Chennai,Karnataka,India,2023-10-18,Basic
+CUST00045,Sunil Tiwari,meera.mukherjee@email.com,+919704821724,Delhi,Kerala,India,2023-02-17,Silver
+CUST00046,Reyansh Tiwari,kavya.kumar@email.com,+917939915527,Mumbai,Karnataka,India,2024-01-29,Platinum
+CUST00047,Sunita Das,krishna.chauhan@email.com,+919557448229,Ahmedabad,Telangana,India,2023-02-21,Platinum
+CUST00048,Deepak Patel,kavita.tiwari@email.com,+919038711176,Jaipur,Rajasthan,India,2024-09-19,Gold
+CUST00049,Riya Chauhan,riya.menon@email.com,+917332788471,Chennai,West Bengal,India,2023-09-11,Silver
+CUST00050,Vikram Kumar,rekha.gupta@email.com,+917918920620,Chennai,Delhi,India,2023-10-06,Platinum
+CUST00051,Vikram Banerjee,sunil.tiwari@email.com,+919987248494,Pune,Maharashtra,India,2024-02-22,Platinum
+CUST00052,Rajesh Das,,+919345620385,Pune,Kerala,India,2024-05-03,Silver
+CUST00053,Rohit Pandey,manoj.rao@email.com,+917708861714,,Rajasthan,India,2024-05-14,Silver
+CUST00054,Sai Tiwari,suresh.banerjee@email.com,+917582824840,Mumbai,Rajasthan,India,2024-09-29,Silver
+CUST00055,Vikram Iyer,rahul.reddy@email.com,+918810607153,Hyderabad,West Bengal,India,2023-02-21,Basic
+CUST00056,Anjali Gupta,,+919799264931,Hyderabad,Maharashtra,India,2024-04-26,Basic
+CUST00057,Meera Singh,vivaan.mukherjee@email.com,+919422230882,Bangalore,Tamil Nadu,India,2023-09-11,Platinum
+CUST00058,Ananya Mishra,ananya.mukherjee@email.com,+917464280597,Delhi,Kerala,India,2023-09-20,Basic
+CUST00059,Arjun Banerjee,vikram.pandey@email.com,+919966166331,Chennai,Tamil Nadu,India,2023-11-16,Basic
+CUST00060,Aditya Desai,gita.singh@email.com,+919288123416,Lucknow,Gujarat,India,2023-11-05,Gold
+CUST00061,Reyansh Tiwari,rohit.sharma@email.com,+918555585773,Ahmedabad,Rajasthan,India,2023-03-12,Silver
+CUST00062,Meera Chauhan,sunita.iyer@email.com,+918870778191,Jaipur,Kerala,India,2024-03-21,Gold
+CUST00063,Sunil Banerjee,sai.iyer@email.com,+919621354709,Chennai,Gujarat,India,2023-11-27,Gold
+CUST00064,Aisha Joshi,rahul.patel@email.com,+918201124041,Hyderabad,Kerala,India,2023-01-30,Gold
+CUST00065,Kavya Tiwari,,+919098425880,Delhi,UP,India,2024-07-23,Silver
+CUST00066,Shreya Nair,nisha.chauhan@email.com,+918736889606,Delhi,Tamil Nadu,India,2024-05-02,Gold
+CUST00067,Geeta Joshi,meera.das@email.com,+918511014697,Pune,Rajasthan,India,2024-11-10,Gold
+CUST00068,Diya Reddy,krishna.reddy@email.com,+917929364954,Jaipur,Rajasthan,India,2023-11-10,Gold
+CUST00069,Priya Mishra,sunita.mukherjee@email.com,+917977032766,Delhi,Telangana,India,2024-08-26,Silver
+CUST00070,Aditya Verma,,+919376658660,Kolkata,West Bengal,India,2023-11-06,Silver
+CUST00071,Shreya Rao,nisha.singh@email.com,+919056061866,Lucknow,Rajasthan,India,2024-10-15,Gold
+CUST00072,Suresh Rao,aisha.rao@email.com,+917318180503,Delhi,Kerala,India,2023-07-08,Basic
+CUST00073,Krishna Das,sita.mishra@email.com,+918787453807,Chennai,Kerala,India,2023-06-05,Silver
+CUST00074,Pooja Banerjee,deepak.mishra@email.com,+919667292043,Pune,Maharashtra,India,2024-06-19,Basic
+CUST00075,Geeta Gupta,aisha.gupta@email.com,+917672302490,Bangalore,Maharashtra,India,2023-08-01,Platinum
+CUST00076,Shreya Chauhan,meera.mishra@email.com,+917305714736,Kolkata,Tamil Nadu,India,2024-04-06,Gold
+CUST00077,Shaurya Iyer,priya.tiwari@email.com,+917610900200,Chennai,Delhi,India,2024-10-02,Basic
+CUST00078,Krishna Chauhan,gita.banerjee@email.com,+919957849462,Ahmedabad,West Bengal,India,2023-06-19,Platinum
+CUST00079,Manoj Joshi,nisha.chauhan@email.com,+919592930364,Mumbai,West Bengal,India,2023-10-06,Basic
+CUST00080,Sita Verma,sita.banerjee@email.com,+917752438459,Kolkata,Rajasthan,India,2023-04-04,Platinum
+CUST00081,Sai Rao,radha.tiwari@email.com,+918494481363,Ahmedabad,Gujarat,India,2023-10-12,Gold
+CUST00082,Shreya Pandey,ananya.joshi@email.com,+919362646960,Ahmedabad,Maharashtra,India,2023-11-25,Platinum
+CUST00083,Kavita Sharma,rahul.singh@email.com,+919824629834,Pune,UP,India,2023-04-01,Platinum
+CUST00084,Deepak Verma,sunita.desai@email.com,+917874275988,Ahmedabad,West Bengal,India,2024-02-28,Silver
+CUST00085,Gita Nair,nisha.singh@email.com,+917680229045,,West Bengal,India,2023-10-22,Basic
+CUST00086,Shaurya Rao,anjali.singh@email.com,+918253535854,Delhi,UP,India,2024-07-19,Gold
+CUST00087,Vikram Reddy,meera.nair@email.com,+919574307168,Bangalore,UP,India,2024-03-01,Silver
+CUST00088,Riya Sharma,rajesh.joshi@email.com,+918214784185,Jaipur,West Bengal,India,2023-03-13,Platinum
+CUST00089,Vikram Chauhan,meera.desai@email.com,+918382023198,Jaipur,Tamil Nadu,India,2023-06-02,Silver
+CUST00090,Vikram Pandey,rajesh.verma@email.com,+919850521812,Ahmedabad,Karnataka,India,2024-08-08,Platinum
+CUST00091,Reyansh Menon,radha.joshi@email.com,+918962491159,Ahmedabad,Maharashtra,India,2023-02-07,Silver
+CUST00092,Rohit Mukherjee,shaurya.gupta@email.com,+919975143612,Kolkata,Gujarat,India,2024-02-24,Basic
+CUST00093,Rekha Verma,rekha.pandey@email.com,+919651968205,Ahmedabad,Delhi,India,2023-12-03,Silver
+CUST00094,Reyansh Singh,shreya.nair@email.com,+918905584866,Pune,Karnataka,India,2024-10-08,Gold
+CUST00095,Amit Desai,,+918849785671,Kolkata,Karnataka,India,2023-01-30,Silver
+CUST00096,Vikram Mukherjee,diya.patel@email.com,+919934040683,Lucknow,Tamil Nadu,India,2024-06-27,Platinum
+CUST00097,Sunil Mishra,sunil.iyer@email.com,+919910316591,Mumbai,UP,India,2024-08-20,Silver
+CUST00098,Aisha Chauhan,amit.banerjee@email.com,+918297602688,Pune,Tamil Nadu,India,2023-03-17,Platinum
+CUST00099,Shreya Sharma,vikram.banerjee@email.com,+919827075539,Kolkata,Gujarat,India,2024-05-09,Gold
+CUST00100,Anjali Mukherjee,vihaan.mukherjee@email.com,+918513206988,Kolkata,Tamil Nadu,India,2023-01-09,Silver
+CUST00101,Pooja Chauhan,ishaan.singh@email.com,+917143299564,Mumbai,Kerala,India,2024-09-27,Gold
+CUST00102,Priya Kumar,shreya.joshi@email.com,+919316738668,Bangalore,Telangana,India,2023-05-15,Gold
+CUST00103,Krishna Chauhan,meera.mishra@email.com,+917323408297,Hyderabad,Karnataka,India,2023-06-18,Silver
+CUST00104,Aarav Iyer,suresh.das@email.com,+919304560537,Pune,Delhi,India,2024-11-23,Platinum
+CUST00105,Reyansh Nair,aisha.banerjee@email.com,+919024977737,Hyderabad,Maharashtra,India,2024-01-13,Gold
+CUST00106,Rajesh Singh,arjun.chauhan@email.com,+917600337712,Kolkata,Maharashtra,India,2024-09-16,Basic
+CUST00107,Ishaan Pandey,krishna.singh@email.com,+918948385094,Jaipur,Telangana,India,2023-11-08,Platinum
+CUST00108,Lata Tiwari,shaurya.tiwari@email.com,+918201474778,Ahmedabad,Maharashtra,India,2024-08-24,Gold
+CUST00109,Rekha Desai,kavya.desai@email.com,+917260060661,Hyderabad,Gujarat,India,2023-08-11,Gold
+CUST00110,Vivaan Verma,sunil.gupta@email.com,+918432410914,Lucknow,Tamil Nadu,India,2023-07-14,Silver
+CUST00111,Rohit Kumar,geeta.reddy@email.com,+919559721644,Chennai,Maharashtra,India,2024-08-01,Gold
+CUST00112,Vivaan Kumar,rekha.iyer@email.com,+917063824611,Delhi,Telangana,India,2023-05-29,Silver
+CUST00113,Sunita Singh,diya.iyer@email.com,+917272979685,Pune,Rajasthan,India,2024-08-25,Platinum
+CUST00114,Aditya Menon,reyansh.chauhan@email.com,+918295492409,Lucknow,Rajasthan,India,2024-01-06,Basic
+CUST00115,Deepak Gupta,suresh.tiwari@email.com,+917346992476,Ahmedabad,Telangana,India,2023-03-04,Silver
+CUST00116,Vikram Mukherjee,lata.banerjee@email.com,+919278724262,Hyderabad,West Bengal,India,2023-03-09,Platinum
+CUST00117,Neha Tiwari,reyansh.singh@email.com,+918939413575,Jaipur,Tamil Nadu,India,2024-06-01,Platinum
+CUST00118,Manoj Joshi,suresh.tiwari@email.com,+919856616537,Hyderabad,West Bengal,India,2023-12-14,Gold
+CUST00119,Sai Tiwari,meera.gupta@email.com,+917414741061,Delhi,Telangana,India,2023-06-06,Silver
+CUST00120,Rajesh Desai,geeta.das@email.com,+919857615772,Delhi,Gujarat,India,2024-07-23,Basic
+CUST00121,Shaurya Rao,amit.singh@email.com,+917963124353,Chennai,Delhi,India,2023-10-22,Gold
+CUST00122,Geeta Mukherjee,riya.banerjee@email.com,+919635277155,Pune,UP,India,2024-07-23,Basic
+CUST00123,Rohit Desai,riya.sharma@email.com,+917026224160,Kolkata,Karnataka,India,2024-09-15,Silver
+CUST00124,Sai Menon,arjun.kumar@email.com,+917923988689,Mumbai,Gujarat,India,2024-08-02,Platinum
+CUST00125,Gita Gupta,sanjay.mishra@email.com,+917225953184,Lucknow,Karnataka,India,2024-04-09,Silver
+CUST00126,Manoj Rao,,+919607371597,Ahmedabad,Rajasthan,India,2024-09-24,Platinum
+CUST00127,Shreya Banerjee,kavita.singh@email.com,+919090071756,Delhi,UP,India,2023-10-07,Gold
+CUST00128,Pooja Reddy,gita.verma@email.com,+917589418977,,West Bengal,India,2023-02-16,Gold
+CUST00129,Rekha Nair,nisha.tiwari@email.com,+919148610411,Pune,UP,India,2023-12-02,Gold
+CUST00130,Arjun Joshi,aditya.tiwari@email.com,+919472866768,,Gujarat,India,2023-03-15,Platinum
+CUST00131,Rahul Patel,krishna.pandey@email.com,+919654827789,,Rajasthan,India,2024-10-17,Gold
+CUST00132,Sunita Gupta,reyansh.nair@email.com,+918699805002,Pune,West Bengal,India,2023-04-01,Gold
+CUST00133,Sunita Menon,ananya.gupta@email.com,+917832810061,Delhi,Telangana,India,2023-08-15,Gold
+CUST00134,Diya Mukherjee,kavya.singh@email.com,+917656570734,Chennai,Delhi,India,2024-10-22,Silver
+CUST00135,Lata Joshi,sita.banerjee@email.com,+919693878240,Lucknow,Telangana,India,2024-10-05,Silver
+CUST00136,Vihaan Desai,deepak.mishra@email.com,+919178995337,Lucknow,Delhi,India,2024-03-26,Gold
+CUST00137,Sai Mukherjee,vihaan.desai@email.com,+919551553388,Delhi,UP,India,2024-04-17,Platinum
+CUST00138,Priya Joshi,aditya.chauhan@email.com,+919598480273,Lucknow,Rajasthan,India,2024-04-18,Silver
+CUST00139,Aditya Nair,rohit.gupta@email.com,+918880157459,Bangalore,Rajasthan,India,2023-03-05,Silver
+CUST00140,Gita Verma,shreya.pandey@email.com,+919709637214,Hyderabad,Telangana,India,2024-01-08,Basic
+CUST00141,Shaurya Joshi,vikram.mishra@email.com,+917350048353,Lucknow,Kerala,India,2023-12-04,Silver
+CUST00142,Pooja Das,suresh.kumar@email.com,+918617825308,Delhi,Telangana,India,2023-12-25,Silver
+CUST00143,Kavita Desai,sunita.gupta@email.com,+917078299575,Pune,Telangana,India,2024-11-17,Gold
+CUST00144,Shaurya Gupta,rohit.rao@email.com,+918270417388,Bangalore,Delhi,India,2023-07-04,Basic
+CUST00145,Ananya Patel,lata.kumar@email.com,+919975749366,Bangalore,Kerala,India,2024-11-08,Silver
+CUST00146,Deepak Mukherjee,,+918223756141,Chennai,Rajasthan,India,2024-03-24,Silver
+CUST00147,Deepak Chauhan,meera.reddy@email.com,+918210200352,Lucknow,Gujarat,India,2024-06-30,Platinum
+CUST00148,Meera Desai,gita.kumar@email.com,+919381734362,Mumbai,Delhi,India,2023-06-15,Basic
+CUST00149,Shaurya Tiwari,ananya.iyer@email.com,+917393906783,Jaipur,Tamil Nadu,India,2023-10-19,Platinum
+CUST00150,Kavya Pandey,rajesh.verma@email.com,+917350492684,Hyderabad,Telangana,India,2023-12-24,Silver
+CUST00151,Aditya Mishra,reyansh.joshi@email.com,+919029178475,Bangalore,Karnataka,India,2023-01-29,Platinum
+CUST00152,Geeta Mukherjee,sai.sharma@email.com,+919266761348,Bangalore,Gujarat,India,2024-04-04,Basic
+CUST00153,Sunil Gupta,krishna.verma@email.com,+917476131010,Lucknow,Rajasthan,India,2023-10-23,Basic
+CUST00154,Lata Desai,kavya.kumar@email.com,+918033215551,Mumbai,Kerala,India,2024-10-09,Platinum
+CUST00155,Sunita Das,sai.menon@email.com,+919178955870,Delhi,UP,India,2023-07-11,Basic
+CUST00156,Vivaan Desai,aditya.pandey@email.com,+917290166087,Kolkata,Telangana,India,2024-02-04,Silver
+CUST00157,Rekha Joshi,radha.joshi@email.com,+919760786161,Hyderabad,Karnataka,India,2024-11-03,Platinum
+CUST00158,Aditya Mishra,ishaan.gupta@email.com,+917865826728,Ahmedabad,Maharashtra,India,2024-05-05,Silver
+CUST00159,Meera Iyer,pooja.menon@email.com,+917157284993,Jaipur,Tamil Nadu,India,2023-02-12,Gold
+CUST00160,Manoj Pandey,vihaan.joshi@email.com,+918888654461,Hyderabad,Gujarat,India,2024-01-01,Gold
+CUST00161,Riya Gupta,nisha.desai@email.com,+918823212172,Jaipur,Delhi,India,2023-07-11,Platinum
+CUST00162,Sai Joshi,diya.das@email.com,+919838626452,Delhi,West Bengal,India,2024-09-08,Gold
+CUST00163,Deepak Verma,manoj.patel@email.com,+918514230707,Hyderabad,Kerala,India,2024-04-01,Platinum
+CUST00164,Sanjay Menon,vihaan.gupta@email.com,+919918046336,Pune,Karnataka,India,2023-10-09,Basic
+CUST00165,Sanjay Desai,deepak.verma@email.com,+918644347110,Chennai,Kerala,India,2023-05-27,Basic
+CUST00166,Sita Kumar,deepak.desai@email.com,+919274012889,Delhi,Telangana,India,2024-09-11,Platinum
+CUST00167,Diya Rao,kavya.singh@email.com,+919223699008,,Gujarat,India,2023-11-18,Basic
+CUST00168,Nisha Reddy,deepak.reddy@email.com,+917526723719,Kolkata,Karnataka,India,2023-09-26,Basic
+CUST00169,Amit Gupta,deepak.gupta@email.com,+919362219754,Hyderabad,UP,India,2024-04-07,Gold
+CUST00170,Priya Kumar,diya.desai@email.com,+918016774160,Delhi,Rajasthan,India,2023-11-04,Basic
+CUST00171,Ishaan Mukherjee,sanjay.chauhan@email.com,+917370292681,Jaipur,Delhi,India,2024-01-05,Gold
+CUST00172,Sita Gupta,meera.menon@email.com,+917538274418,Pune,Telangana,India,2024-02-12,Basic
+CUST00173,Radha Patel,sunita.desai@email.com,+917554192345,Jaipur,Gujarat,India,2024-04-05,Basic
+CUST00174,Amit Menon,pooja.patel@email.com,+918219978197,Chennai,Delhi,India,2023-05-08,Gold
+CUST00175,Lata Das,geeta.iyer@email.com,+917401271939,Kolkata,UP,India,2023-07-21,Silver
+CUST00176,Rohit Banerjee,shaurya.patel@email.com,+917176928180,Lucknow,Maharashtra,India,2024-08-29,Basic
+CUST00177,Rajesh Mukherjee,sita.iyer@email.com,+919744446292,Lucknow,Maharashtra,India,2023-02-16,Platinum
+CUST00178,Pooja Chauhan,pooja.rao@email.com,+917313416738,Pune,Maharashtra,India,2024-10-04,Silver
+CUST00179,Rahul Joshi,sunil.reddy@email.com,+918483355242,Bangalore,Gujarat,India,2024-03-26,Silver
+CUST00180,Riya Chauhan,reyansh.joshi@email.com,+918064803502,Delhi,Karnataka,India,2024-01-15,Basic
+CUST00181,Rahul Banerjee,vikram.mukherjee@email.com,+918343100352,Bangalore,Tamil Nadu,India,2023-02-21,Silver
+CUST00182,Vivaan Gupta,sunil.rao@email.com,+918688962331,Ahmedabad,UP,India,2024-05-25,Platinum
+CUST00183,Gita Rao,amit.verma@email.com,+918227279967,Ahmedabad,UP,India,2023-09-04,Basic
+CUST00184,Aditya Pandey,aisha.desai@email.com,+917219720597,Hyderabad,Kerala,India,2023-04-21,Silver
+CUST00185,Riya Mukherjee,arjun.pandey@email.com,+919922289913,Jaipur,Kerala,India,2024-01-07,Basic
+CUST00186,Geeta Desai,suresh.desai@email.com,+917619623590,Hyderabad,Tamil Nadu,India,2023-05-12,Platinum
+CUST00187,Meera Menon,,+918962750929,Hyderabad,Karnataka,India,2024-05-27,Silver
+CUST00188,Pooja Banerjee,rahul.patel@email.com,+918444712976,Lucknow,UP,India,2023-12-02,Platinum
+CUST00189,Rajesh Banerjee,vivaan.desai@email.com,+918321466224,Delhi,Maharashtra,India,2024-07-30,Platinum
+CUST00190,Radha Rao,radha.banerjee@email.com,+917732343731,Mumbai,UP,India,2023-09-29,Platinum
+CUST00191,Priya Sharma,kavya.verma@email.com,+918894246230,Delhi,Telangana,India,2023-06-01,Platinum
+CUST00192,Meera Verma,neha.tiwari@email.com,+917593059748,Lucknow,UP,India,2023-06-05,Silver
+CUST00193,Sunil Das,meera.menon@email.com,+918470283342,Bangalore,UP,India,2024-07-28,Gold
+CUST00194,Riya Das,aisha.mukherjee@email.com,+918282044148,Chennai,Tamil Nadu,India,2024-11-23,Gold
+CUST00195,Riya Mishra,nisha.joshi@email.com,+917523445293,Jaipur,Kerala,India,2023-10-23,Platinum
+CUST00196,Amit Chauhan,shaurya.mishra@email.com,+919817378520,Delhi,West Bengal,India,2024-02-09,Platinum
+CUST00197,Ishaan Singh,rekha.iyer@email.com,+919644312718,Kolkata,Kerala,India,2023-08-08,Silver
+CUST00198,Reyansh Tiwari,sunita.nair@email.com,+918418600299,Mumbai,Rajasthan,India,2023-09-06,Basic
+CUST00199,Rajesh Rao,aarav.das@email.com,+919050625761,Bangalore,Tamil Nadu,India,2024-11-28,Gold
+CUST00200,Rekha Verma,vihaan.gupta@email.com,+917751897503,Chennai,Gujarat,India,2023-11-25,Silver
+CUST00201,Aditya Sharma,suresh.rao@email.com,+918281584789,Kolkata,Kerala,India,2023-02-07,Basic
+CUST00202,Kavita Chauhan,rekha.menon@email.com,+918171826349,Bangalore,Tamil Nadu,India,2023-12-10,Basic
+CUST00203,Rohit Mishra,sunil.iyer@email.com,+919438601776,Mumbai,Tamil Nadu,India,2023-12-05,Silver
+CUST00204,Suresh Singh,suresh.tiwari@email.com,+917793629209,Delhi,Karnataka,India,2024-09-17,Platinum
+CUST00205,Riya Joshi,aarav.iyer@email.com,+918296847488,Ahmedabad,Kerala,India,2023-11-28,Basic
+CUST00206,Pooja Patel,kavya.verma@email.com,+918741251076,Ahmedabad,UP,India,2023-09-25,Gold
+CUST00207,Ishaan Rao,shreya.desai@email.com,+917657926994,Chennai,Rajasthan,India,2023-05-01,Gold
+CUST00208,Kavya Mukherjee,meera.das@email.com,+917351630288,Chennai,UP,India,2024-03-01,Platinum
+CUST00209,Kavita Reddy,arjun.banerjee@email.com,+919459734963,Jaipur,UP,India,2024-06-24,Silver
+CUST00210,Radha Rao,sunita.chauhan@email.com,+917390591367,Chennai,UP,India,2023-06-18,Platinum
+CUST00211,Geeta Chauhan,kavita.tiwari@email.com,+919889515311,Mumbai,West Bengal,India,2023-02-26,Basic
+CUST00212,Manoj Desai,aarav.reddy@email.com,+917273846739,Mumbai,UP,India,2024-02-10,Basic
+CUST00213,Ishaan Tiwari,meera.verma@email.com,+918608297407,Bangalore,Gujarat,India,2023-03-12,Platinum
+CUST00214,Krishna Patel,rekha.kumar@email.com,+919307507627,Hyderabad,Gujarat,India,2024-01-22,Silver
+CUST00215,Manoj Das,vivaan.mishra@email.com,+918628980027,Jaipur,Tamil Nadu,India,2023-08-17,Silver
+CUST00216,Aditya Tiwari,riya.reddy@email.com,+919641075042,Delhi,Maharashtra,India,2024-04-16,Silver
+CUST00217,Kavya Verma,gita.verma@email.com,+918727716512,Mumbai,Rajasthan,India,2023-07-31,Silver
+CUST00218,Anjali Banerjee,vihaan.kumar@email.com,+918369680934,Kolkata,Kerala,India,2024-07-06,Gold
+CUST00219,Riya Verma,shaurya.menon@email.com,+919391086093,Kolkata,Kerala,India,2023-08-31,Silver
+CUST00220,Vikram Menon,geeta.rao@email.com,+918368954072,Hyderabad,Gujarat,India,2024-10-03,Platinum
+CUST00221,Pooja Kumar,diya.das@email.com,+918988677919,Chennai,Maharashtra,India,2023-06-02,Platinum
+CUST00222,Rohit Gupta,ishaan.pandey@email.com,+918931819683,Chennai,Telangana,India,2024-03-02,Basic
+CUST00223,Gita Verma,priya.verma@email.com,+917312606333,Lucknow,Tamil Nadu,India,2024-07-02,Silver
+CUST00224,Neha Reddy,rohit.mishra@email.com,+917503869216,Mumbai,Rajasthan,India,2024-05-05,Silver
+CUST00225,Vikram Chauhan,suresh.nair@email.com,+919292009846,Kolkata,Telangana,India,2024-09-10,Gold
+CUST00226,Rahul Reddy,nisha.chauhan@email.com,+918592165525,Ahmedabad,Telangana,India,2023-09-25,Platinum
+CUST00227,Geeta Banerjee,anjali.kumar@email.com,+919487399910,,Gujarat,India,2023-02-16,Gold
+CUST00228,Nisha Das,anjali.pandey@email.com,+919811519776,Chennai,Telangana,India,2023-06-06,Gold
+CUST00229,Ananya Kumar,nisha.chauhan@email.com,+919347398593,Hyderabad,Rajasthan,India,2024-05-15,Silver
+CUST00230,Vihaan Sharma,vihaan.menon@email.com,+918771211118,Delhi,Karnataka,India,2024-07-09,Silver
+CUST00231,Vihaan Mukherjee,aarav.reddy@email.com,+919739023440,Hyderabad,Kerala,India,2023-03-11,Platinum
+CUST00232,Vivaan Menon,aarav.das@email.com,+918180002487,Mumbai,UP,India,2024-11-06,Gold
+CUST00233,Sunita Kumar,manoj.patel@email.com,+918034953269,Delhi,Tamil Nadu,India,2023-01-18,Gold
+CUST00234,Sunil Banerjee,suresh.gupta@email.com,+918044569947,Pune,Tamil Nadu,India,2023-12-29,Gold
+CUST00235,Vikram Das,sai.verma@email.com,+919044426338,Pune,Maharashtra,India,2024-12-01,Basic
+CUST00236,Sunita Verma,manoj.joshi@email.com,+917986839603,Delhi,Tamil Nadu,India,2023-06-25,Platinum
+CUST00237,Rekha Banerjee,,+919826557688,Kolkata,Maharashtra,India,2023-10-05,Silver
+CUST00238,Suresh Gupta,,+918285384455,Bangalore,Karnataka,India,2023-11-19,Silver
+CUST00239,Sai Menon,vikram.das@email.com,+918485455239,Bangalore,Maharashtra,India,2024-08-03,Basic
+CUST00240,Gita Pandey,arjun.joshi@email.com,+918401777036,Lucknow,Maharashtra,India,2024-03-23,Gold
+CUST00241,Diya Banerjee,amit.das@email.com,+919837564236,Pune,Gujarat,India,2024-04-06,Basic
+CUST00242,Vikram Kumar,kavya.gupta@email.com,+918673413661,Bangalore,Telangana,India,2024-09-25,Gold
+CUST00243,Reyansh Kumar,pooja.chauhan@email.com,+917374938761,Kolkata,Karnataka,India,2023-04-20,Platinum
+CUST00244,Amit Das,kavita.tiwari@email.com,+917399707954,Delhi,Kerala,India,2024-04-04,Gold
+CUST00245,Geeta Nair,,+919456551333,Delhi,UP,India,2024-01-30,Silver
+CUST00246,Arjun Patel,riya.mishra@email.com,+918866920369,Bangalore,West Bengal,India,2024-01-25,Platinum
+CUST00247,Nisha Mukherjee,arjun.desai@email.com,+919648572296,Chennai,Tamil Nadu,India,2023-11-03,Platinum
+CUST00248,Vikram Joshi,aarav.pandey@email.com,+918890743044,Lucknow,Telangana,India,2023-04-20,Platinum
+CUST00249,Meera Joshi,ishaan.mishra@email.com,+917762946257,Chennai,Gujarat,India,2024-10-28,Gold
+CUST00250,Vikram Iyer,nisha.banerjee@email.com,+918687643539,Hyderabad,Telangana,India,2023-10-26,Basic
+CUST00251,Vivaan Chauhan,rekha.patel@email.com,+917900432998,Jaipur,Rajasthan,India,2024-07-31,Gold
+CUST00252,Kavya Iyer,rajesh.rao@email.com,+919828935922,Kolkata,Karnataka,India,2023-03-12,Platinum
+CUST00253,Kavita Tiwari,gita.rao@email.com,+919334938378,Jaipur,Maharashtra,India,2024-01-22,Gold
+CUST00254,Ananya Mukherjee,sai.singh@email.com,+917190252832,Hyderabad,Kerala,India,2024-07-03,Platinum
+CUST00255,Aisha Nair,manoj.singh@email.com,+919193337732,,UP,India,2023-12-06,Silver
+CUST00256,Amit Sharma,sunil.banerjee@email.com,+919073486033,Bangalore,Delhi,India,2024-04-01,Gold
+CUST00257,Amit Mishra,sai.singh@email.com,+918473460179,Bangalore,Rajasthan,India,2024-03-01,Silver
+CUST00258,Rahul Gupta,meera.singh@email.com,+918289624427,Ahmedabad,Maharashtra,India,2024-06-17,Basic
+CUST00259,Sunita Patel,reyansh.patel@email.com,+919370436671,Chennai,Karnataka,India,2023-01-24,Gold
+CUST00260,Diya Tiwari,sunil.nair@email.com,+918699013395,Bangalore,Maharashtra,India,2024-07-27,Silver
+CUST00261,Riya Gupta,vikram.sharma@email.com,+919479690385,Chennai,Delhi,India,2024-04-05,Silver
+CUST00262,Sunita Joshi,sunil.singh@email.com,+919563970187,Ahmedabad,Gujarat,India,2024-01-10,Platinum
+CUST00263,Lata Banerjee,amit.chauhan@email.com,+917364006941,Kolkata,Karnataka,India,2024-08-24,Gold
+CUST00264,Kavita Pandey,krishna.patel@email.com,+918796323275,Bangalore,Kerala,India,2023-05-01,Silver
+CUST00265,Geeta Patel,diya.rao@email.com,+919102996505,Bangalore,West Bengal,India,2024-08-11,Silver
+CUST00266,Aarav Rao,deepak.mukherjee@email.com,+917586412136,Hyderabad,Tamil Nadu,India,2023-07-11,Platinum
+CUST00267,Deepak Rao,nisha.tiwari@email.com,+917718348264,Pune,Delhi,India,2024-07-29,Basic
+CUST00268,Sunil Banerjee,riya.nair@email.com,+919127354612,Bangalore,UP,India,2023-08-14,Basic
+CUST00269,Deepak Das,rekha.desai@email.com,+917938630454,Mumbai,Gujarat,India,2024-08-09,Basic
+CUST00270,Sai Chauhan,pooja.verma@email.com,+917504169141,Hyderabad,Tamil Nadu,India,2024-10-31,Silver
+CUST00271,Neha Reddy,lata.tiwari@email.com,+917254939955,Bangalore,Kerala,India,2024-08-25,Gold
+CUST00272,Shreya Banerjee,rekha.patel@email.com,+918148229704,Kolkata,UP,India,2024-06-29,Basic
+CUST00273,Ishaan Nair,rajesh.verma@email.com,+917628110811,Bangalore,Telangana,India,2023-05-19,Silver
+CUST00274,Vikram Chauhan,shaurya.banerjee@email.com,+917324339920,Pune,Delhi,India,2024-11-23,Platinum
+CUST00275,Radha Sharma,sanjay.chauhan@email.com,+917400040376,Hyderabad,Rajasthan,India,2024-06-11,Gold
+CUST00276,Nisha Iyer,suresh.reddy@email.com,+918386695233,Chennai,West Bengal,India,2023-03-06,Gold
+CUST00277,Aditya Singh,sita.rao@email.com,+919689420564,Mumbai,Rajasthan,India,2024-07-14,Basic
+CUST00278,Priya Kumar,ananya.chauhan@email.com,+919791716713,Pune,West Bengal,India,2023-05-08,Silver
+CUST00279,Vihaan Pandey,sanjay.iyer@email.com,+919686949912,Bangalore,West Bengal,India,2023-10-08,Silver
+CUST00280,Ishaan Banerjee,reyansh.sharma@email.com,+917971482353,Delhi,UP,India,2024-03-15,Platinum
+CUST00281,Manoj Kumar,,+919051706927,Delhi,Delhi,India,2023-01-10,Silver
+CUST00282,Ishaan Pandey,reyansh.singh@email.com,+917571858688,Kolkata,Karnataka,India,2024-01-28,Basic
+CUST00283,Shaurya Tiwari,lata.patel@email.com,+919646026315,Chennai,Rajasthan,India,2024-06-27,Silver
+CUST00284,Amit Tiwari,ishaan.singh@email.com,+918350782959,Pune,Karnataka,India,2023-03-30,Silver
+CUST00285,Shreya Sharma,kavya.das@email.com,+919827829512,Lucknow,West Bengal,India,2023-10-11,Silver
+CUST00286,Kavya Rao,priya.pandey@email.com,+918657365938,Mumbai,Delhi,India,2024-06-14,Silver
+CUST00287,Sanjay Joshi,arjun.menon@email.com,+917566862173,Mumbai,Gujarat,India,2024-05-26,Platinum
+CUST00288,Vivaan Banerjee,diya.rao@email.com,+917290050198,Delhi,Maharashtra,India,2024-01-10,Gold
+CUST00289,Kavita Mishra,,+919699690577,Pune,UP,India,2023-08-09,Platinum
+CUST00290,Riya Gupta,sai.das@email.com,+918331039957,Bangalore,Delhi,India,2024-03-09,Silver
+CUST00291,Pooja Tiwari,suresh.banerjee@email.com,+918024939794,Delhi,Maharashtra,India,2023-06-09,Silver
+CUST00292,Pooja Patel,krishna.chauhan@email.com,+917513003815,Mumbai,Maharashtra,India,2023-03-30,Silver
+CUST00293,Ananya Desai,amit.menon@email.com,+917545162815,Kolkata,West Bengal,India,2023-01-12,Basic
+CUST00294,Sita Gupta,manoj.iyer@email.com,+919130937594,Kolkata,Rajasthan,India,2023-01-31,Gold
+CUST00295,Reyansh Banerjee,sita.patel@email.com,+919895325210,Kolkata,Delhi,India,2023-02-26,Silver
+CUST00296,Kavya Verma,,+919026213491,Mumbai,Telangana,India,2024-06-05,Platinum
+CUST00297,Anjali Joshi,aditya.das@email.com,+918066282253,Pune,Gujarat,India,2023-06-03,Gold
+CUST00298,Diya Nair,sita.desai@email.com,+919215233002,Mumbai,Maharashtra,India,2023-10-05,Platinum
+CUST00299,Sunil Sharma,shreya.mishra@email.com,+918584496586,Jaipur,Tamil Nadu,India,2023-03-12,Gold
+CUST00300,Nisha Reddy,lata.nair@email.com,+919347454072,Lucknow,Tamil Nadu,India,2024-07-31,Silver
+CUST00301,Rohit Sharma,vivaan.nair@email.com,+919823098529,Mumbai,Gujarat,India,2023-01-07,Gold
+CUST00302,Shaurya Iyer,kavya.tiwari@email.com,+917399546384,Mumbai,Maharashtra,India,2023-04-17,Silver
+CUST00303,Radha Singh,sanjay.chauhan@email.com,+919170795726,Delhi,Karnataka,India,2024-06-16,Platinum
+CUST00304,Kavya Mishra,vihaan.tiwari@email.com,+918120947541,Bangalore,Telangana,India,2023-03-18,Platinum
+CUST00305,Ishaan Banerjee,riya.nair@email.com,+917468034755,Chennai,Karnataka,India,2023-12-01,Basic
+CUST00306,Neha Chauhan,rahul.tiwari@email.com,+918324171556,Hyderabad,Rajasthan,India,2023-06-18,Gold
+CUST00307,Shaurya Gupta,pooja.mukherjee@email.com,+918066091571,Hyderabad,Telangana,India,2023-05-03,Platinum
+CUST00308,Vivaan Pandey,,+918942189222,Bangalore,UP,India,2024-06-09,Silver
+CUST00309,Anjali Kumar,ishaan.singh@email.com,+917850974890,,Gujarat,India,2023-04-07,Gold
+CUST00310,Vivaan Gupta,sai.banerjee@email.com,+917849331223,Delhi,Rajasthan,India,2024-10-07,Silver
+CUST00311,Vihaan Patel,rohit.singh@email.com,+919464813860,Ahmedabad,Gujarat,India,2023-04-05,Platinum
+CUST00312,Amit Reddy,,+917803807914,Bangalore,West Bengal,India,2024-05-23,Gold
+CUST00313,Shreya Rao,aditya.mukherjee@email.com,+918769493025,Chennai,UP,India,2024-04-01,Platinum
+CUST00314,Kavya Das,vikram.kumar@email.com,+917083880626,Jaipur,Gujarat,India,2023-03-04,Gold
+CUST00315,Rahul Pandey,nisha.desai@email.com,+918161512446,Jaipur,Karnataka,India,2024-05-06,Basic
+CUST00316,Sunita Desai,vivaan.iyer@email.com,+919508213290,Ahmedabad,Tamil Nadu,India,2023-11-23,Silver
+CUST00317,Anjali Banerjee,kavya.iyer@email.com,+918668262032,Mumbai,Telangana,India,2023-04-13,Silver
+CUST00318,Amit Banerjee,rahul.desai@email.com,+919420671425,Mumbai,Karnataka,India,2023-06-30,Silver
+CUST00319,Anjali Mukherjee,diya.rao@email.com,+917939777262,Mumbai,Maharashtra,India,2024-05-19,Platinum
+CUST00320,Diya Joshi,lata.reddy@email.com,+917255790920,Hyderabad,Maharashtra,India,2023-01-01,Silver
+CUST00321,Arjun Desai,shaurya.singh@email.com,+919843867732,Hyderabad,Gujarat,India,2024-08-23,Basic
+CUST00322,Nisha Joshi,ishaan.patel@email.com,+917748194762,Pune,UP,India,2023-12-11,Gold
+CUST00323,Ishaan Patel,diya.pandey@email.com,+917007721941,Kolkata,Kerala,India,2023-08-17,Platinum
+CUST00324,Anjali Banerjee,,+917447150027,Lucknow,Rajasthan,India,2024-08-04,Silver
+CUST00325,Sai Joshi,kavya.desai@email.com,+918918260963,Bangalore,Maharashtra,India,2023-12-06,Gold
+CUST00326,Aarav Verma,arjun.desai@email.com,+918657587204,Delhi,Rajasthan,India,2023-08-03,Platinum
+CUST00327,Reyansh Rao,nisha.pandey@email.com,+919482729424,Pune,Tamil Nadu,India,2023-06-20,Silver
+CUST00328,Aisha Singh,aditya.mishra@email.com,+917318688299,,Telangana,India,2024-04-07,Silver
+CUST00329,Rohit Mukherjee,arjun.das@email.com,+919635584024,Delhi,Rajasthan,India,2024-01-20,Basic
+CUST00330,Vihaan Singh,ananya.mukherjee@email.com,+918422040412,Bangalore,Tamil Nadu,India,2024-03-17,Silver
+CUST00331,Kavya Singh,rekha.iyer@email.com,+917213182609,Kolkata,Gujarat,India,2024-02-24,Platinum
+CUST00332,Meera Reddy,aarav.tiwari@email.com,+917416555576,Lucknow,Maharashtra,India,2023-06-07,Silver
+CUST00333,Suresh Rao,sai.rao@email.com,+919100654796,Kolkata,West Bengal,India,2023-06-24,Basic
+CUST00334,Diya Chauhan,diya.desai@email.com,+917191628232,Hyderabad,West Bengal,India,2024-10-19,Platinum
+CUST00335,Sai Desai,riya.banerjee@email.com,+919325505783,Delhi,Gujarat,India,2024-04-21,Silver
+CUST00336,Meera Banerjee,vikram.menon@email.com,+918012074766,Jaipur,Rajasthan,India,2024-07-20,Gold
+CUST00337,Sita Mukherjee,aditya.menon@email.com,+917633282877,Jaipur,Delhi,India,2023-03-22,Platinum
+CUST00338,Aditya Tiwari,ananya.reddy@email.com,+917336590217,Bangalore,Gujarat,India,2023-06-27,Silver
+CUST00339,Sai Pandey,gita.iyer@email.com,+919389566051,Delhi,Gujarat,India,2024-10-04,Gold
+CUST00340,Krishna Tiwari,aarav.mukherjee@email.com,+917642708893,Pune,Karnataka,India,2023-10-10,Basic
+CUST00341,Rajesh Iyer,reyansh.mishra@email.com,+918645159179,Hyderabad,Rajasthan,India,2023-04-19,Platinum
+CUST00342,Aditya Pandey,suresh.kumar@email.com,+918423756197,Pune,Tamil Nadu,India,2023-02-08,Basic
+CUST00343,Pooja Iyer,sanjay.sharma@email.com,+919111488438,Kolkata,Delhi,India,2024-05-01,Silver
+CUST00344,Gita Gupta,deepak.joshi@email.com,+917807177651,Pune,Rajasthan,India,2023-05-18,Silver
+CUST00345,Ananya Gupta,sunita.desai@email.com,+918336263518,Jaipur,UP,India,2024-02-21,Platinum
+CUST00346,Priya Reddy,sunita.banerjee@email.com,+917247508299,,Tamil Nadu,India,2023-05-19,Basic
+CUST00347,Kavita Pandey,sanjay.reddy@email.com,+919729064332,Ahmedabad,Delhi,India,2024-04-12,Basic
+CUST00348,Radha Das,gita.chauhan@email.com,+918502207340,Ahmedabad,Telangana,India,2023-09-05,Silver
+CUST00349,Vihaan Patel,sai.mishra@email.com,+919457829635,,Tamil Nadu,India,2023-09-22,Silver
+CUST00350,Vivaan Sharma,neha.iyer@email.com,+919036231979,Jaipur,Karnataka,India,2024-10-24,Silver
+CUST00351,Riya Tiwari,anjali.iyer@email.com,+918616949739,Kolkata,Telangana,India,2024-09-07,Platinum
+CUST00352,Radha Singh,pooja.menon@email.com,+917031557592,Pune,UP,India,2023-09-16,Gold
+CUST00353,Meera Gupta,gita.mishra@email.com,+918444327294,Delhi,West Bengal,India,2024-07-28,Gold
+CUST00354,Vihaan Mukherjee,pooja.reddy@email.com,+918735589535,Chennai,Telangana,India,2023-10-11,Silver
+CUST00355,Vikram Verma,shreya.iyer@email.com,+919504067741,Pune,Kerala,India,2023-01-27,Silver
+CUST00356,Amit Menon,anjali.das@email.com,+918289326948,Ahmedabad,Karnataka,India,2023-12-18,Silver
+CUST00357,Diya Joshi,ishaan.iyer@email.com,+919810775408,Jaipur,Delhi,India,2023-10-28,Silver
+CUST00358,Sanjay Iyer,pooja.tiwari@email.com,+919515006996,Hyderabad,West Bengal,India,2023-12-30,Platinum
+CUST00359,Meera Reddy,radha.banerjee@email.com,+919149533961,Delhi,Delhi,India,2023-05-01,Platinum
+CUST00360,Rohit Tiwari,vihaan.kumar@email.com,+919445569788,Chennai,Rajasthan,India,2024-06-26,Silver
+CUST00361,Rahul Verma,diya.gupta@email.com,+917020244331,Bangalore,Rajasthan,India,2023-11-20,Gold
+CUST00362,Sai Kumar,ananya.banerjee@email.com,+919639170397,Ahmedabad,Gujarat,India,2023-08-03,Platinum
+CUST00363,Rekha Reddy,meera.pandey@email.com,+918602458325,,Maharashtra,India,2024-02-18,Gold
+CUST00364,Pooja Kumar,aarav.nair@email.com,+917441128454,Hyderabad,Gujarat,India,2024-06-27,Gold
+CUST00365,Sunita Mukherjee,aditya.mishra@email.com,+919251068157,Ahmedabad,Telangana,India,2023-06-21,Platinum
+CUST00366,Suresh Sharma,nisha.desai@email.com,+917981049082,Bangalore,Tamil Nadu,India,2023-05-18,Silver
+CUST00367,Aditya Pandey,radha.menon@email.com,+919750158124,Hyderabad,West Bengal,India,2023-08-05,Basic
+CUST00368,Rajesh Chauhan,reyansh.sharma@email.com,+918633177480,Delhi,Delhi,India,2024-08-31,Gold
+CUST00369,Sunita Iyer,neha.sharma@email.com,+919674896065,Delhi,Kerala,India,2024-04-30,Silver
+CUST00370,Shreya Singh,reyansh.menon@email.com,+917456399159,Delhi,Rajasthan,India,2024-03-04,Silver
+CUST00371,Rajesh Mishra,aisha.menon@email.com,+917688799369,Hyderabad,Maharashtra,India,2024-09-15,Platinum
+CUST00372,Sai Singh,meera.joshi@email.com,+919465967350,Mumbai,Rajasthan,India,2023-08-01,Silver
+CUST00373,Sunil Mishra,arjun.singh@email.com,+918134408349,Chennai,Rajasthan,India,2023-04-03,Basic
+CUST00374,Manoj Singh,aditya.mishra@email.com,+917408015311,Hyderabad,Maharashtra,India,2023-04-13,Basic
+CUST00375,Lata Iyer,ananya.joshi@email.com,+917399222877,Ahmedabad,Telangana,India,2023-05-22,Gold
+CUST00376,Meera Tiwari,suresh.chauhan@email.com,+919786774414,Pune,Karnataka,India,2023-07-07,Basic
+CUST00377,Meera Banerjee,vihaan.patel@email.com,+919913676335,Lucknow,Rajasthan,India,2023-05-16,Silver
+CUST00378,Ishaan Rao,amit.mukherjee@email.com,+919096471391,,Delhi,India,2024-09-17,Platinum
+CUST00379,Aarav Menon,,+919476688619,Hyderabad,Kerala,India,2024-03-27,Silver
+CUST00380,Reyansh Tiwari,sunita.menon@email.com,+919842036826,Lucknow,Tamil Nadu,India,2024-11-16,Platinum
+CUST00381,Lata Verma,vikram.kumar@email.com,+917050014313,Jaipur,Karnataka,India,2023-12-21,Platinum
+CUST00382,Riya Verma,arjun.rao@email.com,+919177244907,Hyderabad,Tamil Nadu,India,2024-05-22,Platinum
+CUST00383,Deepak Gupta,sai.chauhan@email.com,+919140852855,Lucknow,Rajasthan,India,2024-02-17,Gold
+CUST00384,Geeta Das,vivaan.singh@email.com,+917000728926,Mumbai,Delhi,India,2023-05-02,Gold
+CUST00385,Anjali Chauhan,sunil.joshi@email.com,+918425811567,Mumbai,UP,India,2024-06-04,Platinum
+CUST00386,Aarav Joshi,deepak.singh@email.com,+918525310290,Chennai,West Bengal,India,2024-11-03,Gold
+CUST00387,Rajesh Singh,,+918092164263,Bangalore,Kerala,India,2023-04-19,Silver
+CUST00388,Rohit Singh,suresh.reddy@email.com,+918780136605,Chennai,Maharashtra,India,2023-07-12,Basic
+CUST00389,Aarav Menon,radha.menon@email.com,+917208613457,Ahmedabad,UP,India,2024-04-06,Platinum
+CUST00390,Ishaan Singh,kavita.patel@email.com,+918663894274,Bangalore,Kerala,India,2024-08-22,Gold
+CUST00391,Riya Pandey,rajesh.mukherjee@email.com,+918472567340,Chennai,West Bengal,India,2024-05-31,Platinum
+CUST00392,Rahul Das,gita.menon@email.com,+919716924538,Jaipur,Tamil Nadu,India,2023-05-17,Silver
+CUST00393,Diya Menon,shreya.desai@email.com,+919329983136,Bangalore,Telangana,India,2023-08-03,Basic
+CUST00394,Rekha Mishra,radha.banerjee@email.com,+918814135645,Pune,Maharashtra,India,2023-12-27,Basic
+CUST00395,Shreya Iyer,vihaan.verma@email.com,+917628905148,Bangalore,Maharashtra,India,2023-01-26,Gold
+CUST00396,Lata Das,aditya.desai@email.com,+917963392891,Delhi,UP,India,2023-07-28,Platinum
+CUST00397,Rajesh Joshi,shreya.verma@email.com,+919371357111,Pune,Maharashtra,India,2023-09-01,Basic
+CUST00398,Radha Das,deepak.nair@email.com,+919591527330,Hyderabad,Tamil Nadu,India,2023-09-15,Silver
+CUST00399,Krishna Pandey,arjun.patel@email.com,+917174522691,Jaipur,Gujarat,India,2023-10-29,Gold
+CUST00400,Rohit Chauhan,ananya.banerjee@email.com,+917664885408,Mumbai,Maharashtra,India,2024-07-23,Silver
+CUST00401,Geeta Desai,lata.mishra@email.com,+917313020613,Lucknow,Telangana,India,2023-11-27,Silver
+CUST00402,Suresh Gupta,kavita.patel@email.com,+918500674245,Jaipur,Tamil Nadu,India,2023-07-08,Silver
+CUST00403,Sunita Rao,sanjay.mishra@email.com,+919410914100,Lucknow,Maharashtra,India,2024-11-10,Basic
+CUST00404,Aditya Joshi,kavya.mukherjee@email.com,+918637982876,Chennai,Delhi,India,2024-11-15,Platinum
+CUST00405,Kavita Menon,shreya.sharma@email.com,+918913652314,Hyderabad,Rajasthan,India,2023-09-20,Basic
+CUST00406,Ananya Das,priya.joshi@email.com,+919290101581,Delhi,Maharashtra,India,2023-10-31,Basic
+CUST00407,Rekha Tiwari,neha.tiwari@email.com,+919776959016,Chennai,Delhi,India,2023-08-04,Silver
+CUST00408,Diya Iyer,rohit.verma@email.com,+919396953414,Mumbai,Delhi,India,2023-01-25,Silver
+CUST00409,Vikram Singh,deepak.pandey@email.com,+919297096148,Mumbai,Maharashtra,India,2023-09-22,Basic
+CUST00410,Kavita Singh,,+918244838690,Hyderabad,West Bengal,India,2024-08-22,Basic
+CUST00411,Meera Patel,deepak.pandey@email.com,+919291226621,Mumbai,Tamil Nadu,India,2023-10-16,Silver
+CUST00412,Pooja Desai,rekha.mishra@email.com,+917047889782,Bangalore,UP,India,2024-02-05,Silver
+CUST00413,Rekha Das,,+917365617071,Pune,West Bengal,India,2023-05-07,Silver
+CUST00414,Lata Iyer,kavita.kumar@email.com,+917834624758,Chennai,Delhi,India,2023-12-19,Silver
+CUST00415,Arjun Mishra,vihaan.das@email.com,+919884866198,Jaipur,Delhi,India,2024-11-18,Gold
+CUST00416,Ishaan Nair,radha.rao@email.com,+917429690260,Hyderabad,West Bengal,India,2023-04-11,Basic
+CUST00417,Radha Kumar,deepak.joshi@email.com,+919429027360,Kolkata,Kerala,India,2023-07-18,Gold
+CUST00418,Manoj Iyer,ananya.sharma@email.com,+918543980627,Chennai,Karnataka,India,2023-11-20,Gold
+CUST00419,Diya Mukherjee,amit.mishra@email.com,+917352074333,Delhi,West Bengal,India,2024-05-06,Silver
+CUST00420,Vivaan Banerjee,arjun.gupta@email.com,+919486359959,Jaipur,Gujarat,India,2024-07-05,Silver
+CUST00421,Sanjay Pandey,rekha.das@email.com,+917959094724,Bangalore,Kerala,India,2023-02-07,Gold
+CUST00422,Aarav Nair,kavita.gupta@email.com,+919637264426,Jaipur,Karnataka,India,2023-05-18,Silver
+CUST00423,Meera Desai,sita.banerjee@email.com,+917173601852,Bangalore,Tamil Nadu,India,2024-04-01,Platinum
+CUST00424,Sunita Desai,sanjay.nair@email.com,+918666847218,Chennai,Rajasthan,India,2023-08-26,Platinum
+CUST00425,Sunita Iyer,,+918130933907,Delhi,Kerala,India,2023-02-17,Silver
+CUST00426,Sunita Iyer,sanjay.banerjee@email.com,+918616319802,Delhi,Tamil Nadu,India,2024-01-21,Platinum
+CUST00427,Aarav Menon,amit.rao@email.com,+917596864325,Lucknow,Rajasthan,India,2023-12-28,Silver
+CUST00428,Sanjay Mukherjee,riya.reddy@email.com,+917508224423,Bangalore,Tamil Nadu,India,2023-08-24,Platinum
+CUST00429,Ananya Tiwari,meera.rao@email.com,+917096405016,Lucknow,Tamil Nadu,India,2023-12-05,Basic
+CUST00430,Sita Kumar,ananya.kumar@email.com,+917240140248,Mumbai,Karnataka,India,2023-05-11,Gold
+CUST00431,Shreya Gupta,suresh.mukherjee@email.com,+917930261655,Mumbai,Rajasthan,India,2023-07-04,Platinum
+CUST00432,Diya Mukherjee,rajesh.mukherjee@email.com,+919833169800,Lucknow,UP,India,2024-05-08,Gold
+CUST00433,Anjali Pandey,rohit.chauhan@email.com,+918655546199,Delhi,Karnataka,India,2023-06-21,Basic
+CUST00434,Reyansh Patel,kavita.tiwari@email.com,+919043842561,Lucknow,Kerala,India,2023-01-17,Basic
+CUST00435,Gita Das,krishna.gupta@email.com,+917005154842,Bangalore,Gujarat,India,2024-06-28,Platinum
+CUST00436,Vikram Desai,sunita.tiwari@email.com,+919529942267,Ahmedabad,Kerala,India,2024-01-15,Basic
+CUST00437,Shreya Mukherjee,meera.nair@email.com,+919335306968,Delhi,Gujarat,India,2024-03-11,Gold
+CUST00438,Sita Menon,,+917506070001,Mumbai,UP,India,2023-07-13,Basic
+CUST00439,Manoj Banerjee,rahul.tiwari@email.com,+918089344285,Bangalore,West Bengal,India,2024-01-20,Platinum
+CUST00440,Geeta Das,riya.pandey@email.com,+919072183247,Pune,Karnataka,India,2024-08-01,Gold
+CUST00441,Ishaan Singh,aisha.mishra@email.com,+917986860232,Pune,Rajasthan,India,2024-07-26,Silver
+CUST00442,Vihaan Patel,suresh.joshi@email.com,+918671187564,Lucknow,Maharashtra,India,2023-04-13,Basic
+CUST00443,Anjali Desai,gita.tiwari@email.com,+917343768060,Kolkata,Kerala,India,2023-05-29,Basic
+CUST00444,Gita Verma,suresh.mukherjee@email.com,+917752783751,Kolkata,Rajasthan,India,2024-01-29,Platinum
+CUST00445,Kavita Menon,sunita.mishra@email.com,+919999818762,Lucknow,Tamil Nadu,India,2023-01-11,Silver
+CUST00446,Ananya Gupta,,+918185139825,Mumbai,Gujarat,India,2024-11-21,Gold
+CUST00447,Sai Das,radha.reddy@email.com,+918221891492,Delhi,UP,India,2024-11-16,Gold
+CUST00448,Sunil Pandey,riya.nair@email.com,+919469205576,Chennai,Maharashtra,India,2023-12-22,Gold
+CUST00449,Rohit Singh,reyansh.das@email.com,+919204549513,Kolkata,West Bengal,India,2023-06-29,Gold
+CUST00450,Sunil Chauhan,sita.rao@email.com,+919520400691,Hyderabad,Maharashtra,India,2024-03-29,Platinum
+CUST00451,Rahul Tiwari,vikram.nair@email.com,+918516536926,Chennai,UP,India,2023-04-30,Basic
+CUST00452,Arjun Das,sai.pandey@email.com,+917766590443,Hyderabad,Rajasthan,India,2023-09-27,Gold
+CUST00453,Nisha Reddy,sita.iyer@email.com,+918008721904,Chennai,Tamil Nadu,India,2023-12-29,Gold
+CUST00454,Krishna Gupta,kavya.mukherjee@email.com,+919902590965,Delhi,Rajasthan,India,2023-07-31,Basic
+CUST00455,Sita Iyer,meera.desai@email.com,+919107992942,Ahmedabad,Karnataka,India,2024-07-08,Gold
+CUST00456,Meera Das,sita.kumar@email.com,+917139855492,Pune,UP,India,2024-02-12,Gold
+CUST00457,Sunil Joshi,diya.chauhan@email.com,+919960136787,Jaipur,Maharashtra,India,2024-02-08,Basic
+CUST00458,Aisha Patel,radha.singh@email.com,+919356061869,Lucknow,West Bengal,India,2024-11-21,Silver
+CUST00459,Manoj Reddy,lata.joshi@email.com,+918799990470,Ahmedabad,Telangana,India,2023-10-03,Gold
+CUST00460,Anjali Singh,diya.banerjee@email.com,+918159422567,Lucknow,Tamil Nadu,India,2024-02-15,Platinum
+CUST00461,Rajesh Rao,shaurya.rao@email.com,+917577551466,Bangalore,UP,India,2024-01-26,Gold
+CUST00462,Ananya Verma,geeta.banerjee@email.com,+917925425090,Delhi,West Bengal,India,2024-05-13,Platinum
+CUST00463,Geeta Iyer,rohit.iyer@email.com,+918478071244,Jaipur,Maharashtra,India,2024-10-06,Platinum
+CUST00464,Diya Mishra,gita.reddy@email.com,+918525181720,Jaipur,Telangana,India,2023-05-05,Platinum
+CUST00465,Ananya Joshi,vikram.mukherjee@email.com,+918811688007,Bangalore,Kerala,India,2024-04-02,Platinum
+CUST00466,Riya Mukherjee,rohit.nair@email.com,+919768726167,Kolkata,Gujarat,India,2023-03-15,Gold
+CUST00467,Rajesh Patel,sanjay.banerjee@email.com,+917789785197,Ahmedabad,Maharashtra,India,2024-03-31,Silver
+CUST00468,Reyansh Gupta,sai.reddy@email.com,+919032317504,Delhi,UP,India,2023-08-29,Basic
+CUST00469,Shaurya Gupta,sunita.gupta@email.com,+919812484901,Lucknow,Gujarat,India,2023-01-27,Gold
+CUST00470,Sunita Patel,shreya.chauhan@email.com,+917122712790,Bangalore,Maharashtra,India,2023-08-23,Gold
+CUST00471,Deepak Kumar,sunil.das@email.com,+919996267442,Jaipur,UP,India,2023-11-30,Silver
+CUST00472,Pooja Desai,sita.tiwari@email.com,+919068678214,Jaipur,UP,India,2024-08-28,Silver
+CUST00473,Aarav Sharma,sanjay.tiwari@email.com,+919247626139,Kolkata,Karnataka,India,2023-04-02,Gold
+CUST00474,Pooja Sharma,aarav.rao@email.com,+918848705588,Ahmedabad,West Bengal,India,2023-10-21,Silver
+CUST00475,Suresh Nair,priya.tiwari@email.com,+917701237129,Pune,Gujarat,India,2023-01-08,Platinum
+CUST00476,Riya Mishra,manoj.nair@email.com,+919785101763,Lucknow,UP,India,2023-08-14,Gold
+CUST00477,Sunil Mukherjee,arjun.patel@email.com,+918944620470,Delhi,West Bengal,India,2024-02-27,Platinum
+CUST00478,Diya Singh,shaurya.verma@email.com,+918211672712,Mumbai,West Bengal,India,2023-07-12,Silver
+CUST00479,Neha Joshi,anjali.gupta@email.com,+918804930077,Ahmedabad,West Bengal,India,2024-03-24,Platinum
+CUST00480,Vihaan Iyer,aditya.joshi@email.com,+918685438702,Bangalore,Delhi,India,2024-01-16,Platinum
+CUST00481,Kavya Pandey,aisha.pandey@email.com,+918902502763,Delhi,Tamil Nadu,India,2023-07-05,Basic
+CUST00482,Meera Pandey,reyansh.menon@email.com,+919926772459,Chennai,West Bengal,India,2023-07-23,Gold
+CUST00483,Meera Mishra,aditya.das@email.com,+917853511493,Kolkata,Telangana,India,2023-06-12,Basic
+CUST00484,Aarav Patel,krishna.nair@email.com,+918185840646,Hyderabad,Kerala,India,2024-11-13,Basic
+CUST00485,Gita Kumar,aarav.verma@email.com,+918595145112,Ahmedabad,Delhi,India,2024-02-10,Silver
+CUST00486,Vihaan Desai,lata.joshi@email.com,+919768428107,Mumbai,Karnataka,India,2023-06-11,Basic
+CUST00487,Deepak Reddy,rahul.das@email.com,+917091709704,Hyderabad,Gujarat,India,2023-05-09,Gold
+CUST00488,Shreya Das,aditya.rao@email.com,+919993754459,Jaipur,Rajasthan,India,2023-05-18,Silver
+CUST00489,Gita Das,amit.joshi@email.com,+917688669716,Kolkata,Delhi,India,2024-08-03,Silver
+CUST00490,Kavita Pandey,aisha.das@email.com,+917796863703,Mumbai,Maharashtra,India,2024-04-05,Gold
+CUST00491,Sunita Rao,arjun.das@email.com,+919368536195,Chennai,Karnataka,India,2024-09-27,Gold
+CUST00492,Aditya Kumar,rahul.singh@email.com,+917767247805,Delhi,Maharashtra,India,2023-11-27,Silver
+CUST00493,Nisha Menon,reyansh.verma@email.com,+919679932830,Pune,Kerala,India,2023-04-20,Gold
+CUST00494,Neha Rao,gita.gupta@email.com,+917343411869,,Rajasthan,India,2023-02-20,Basic
+CUST00495,Lata Iyer,rajesh.desai@email.com,+919272127173,Mumbai,Maharashtra,India,2024-01-05,Basic
+CUST00496,Rekha Pandey,neha.menon@email.com,+917813726301,Chennai,Tamil Nadu,India,2023-11-08,Silver
+CUST00497,Reyansh Banerjee,diya.das@email.com,+918537440949,Pune,Rajasthan,India,2024-08-06,Platinum
+CUST00498,Ananya Das,diya.das@email.com,+919576618444,Hyderabad,Rajasthan,India,2023-04-17,Gold
+CUST00499,Rahul Mukherjee,rahul.desai@email.com,+918033895513,Pune,Kerala,India,2023-11-19,Silver
+CUST00500,Suresh Sharma,aisha.desai@email.com,+917148876024,Ahmedabad,West Bengal,India,2024-01-20,Basic
+CUST00501,Neha Joshi,pooja.sharma@email.com,+917093206686,Chennai,West Bengal,India,2024-06-14,Silver
+CUST00502,Aisha Desai,,+919500339713,Bangalore,Tamil Nadu,India,2023-04-07,Silver
+CUST00503,Arjun Joshi,sai.banerjee@email.com,+919072464202,Chennai,Karnataka,India,2023-09-20,Platinum
+CUST00504,Sita Pandey,reyansh.mukherjee@email.com,+917337057834,Mumbai,Maharashtra,India,2024-08-13,Gold
+CUST00505,Anjali Mukherjee,manoj.tiwari@email.com,+917049110293,Delhi,Gujarat,India,2023-12-23,Basic
+CUST00506,Kavita Nair,rahul.das@email.com,+917657978181,Hyderabad,Maharashtra,India,2023-11-09,Platinum
+CUST00507,Shreya Pandey,sita.menon@email.com,+917635708419,Pune,Karnataka,India,2024-04-01,Gold
+CUST00508,Suresh Menon,vihaan.das@email.com,+918866125107,Delhi,Karnataka,India,2023-03-26,Silver
+CUST00509,Geeta Mukherjee,nisha.pandey@email.com,+919251627092,Chennai,Tamil Nadu,India,2024-05-07,Silver
+CUST00510,Sai Singh,manoj.joshi@email.com,+919885133776,Lucknow,Gujarat,India,2023-03-15,Platinum
+CUST00511,Pooja Patel,rahul.desai@email.com,+918502020490,Mumbai,Kerala,India,2024-01-10,Platinum
+CUST00512,Shaurya Gupta,aditya.nair@email.com,+917482632941,Hyderabad,Maharashtra,India,2024-09-30,Silver
+CUST00513,Pooja Chauhan,shreya.sharma@email.com,+919023746966,Delhi,Maharashtra,India,2024-09-27,Gold
+CUST00514,Geeta Rao,neha.reddy@email.com,+919675944972,Kolkata,Karnataka,India,2023-08-03,Basic
+CUST00515,Shreya Reddy,sunita.verma@email.com,+919991559353,Mumbai,Kerala,India,2024-01-21,Gold
+CUST00516,Sanjay Singh,aarav.gupta@email.com,+917081940786,Kolkata,West Bengal,India,2023-02-24,Platinum
+CUST00517,Gita Das,kavita.singh@email.com,+917378045890,Ahmedabad,Karnataka,India,2023-08-25,Silver
+CUST00518,Pooja Joshi,geeta.sharma@email.com,+919104245546,Jaipur,Gujarat,India,2024-05-27,Silver
+CUST00519,Kavita Iyer,amit.desai@email.com,+917266329625,Chennai,West Bengal,India,2023-01-19,Platinum
+CUST00520,Ishaan Gupta,riya.nair@email.com,+918641567077,Pune,UP,India,2023-01-31,Silver
+CUST00521,Rohit Chauhan,shaurya.tiwari@email.com,+919328876246,Lucknow,Karnataka,India,2024-03-03,Silver
+CUST00522,Sunita Kumar,rekha.reddy@email.com,+918847112068,Kolkata,Karnataka,India,2024-10-30,Silver
+CUST00523,Vivaan Joshi,rekha.singh@email.com,+918778288911,Bangalore,Gujarat,India,2023-11-22,Gold
+CUST00524,Ishaan Patel,riya.kumar@email.com,+917112520487,Delhi,Kerala,India,2024-03-29,Gold
+CUST00525,Amit Gupta,anjali.mukherjee@email.com,+919955544302,Mumbai,Rajasthan,India,2024-09-12,Silver
+CUST00526,Nisha Rao,meera.desai@email.com,+917590612666,Pune,Karnataka,India,2024-05-29,Silver
+CUST00527,Riya Tiwari,,+917955863041,Mumbai,Tamil Nadu,India,2023-08-20,Silver
+CUST00528,Sunil Nair,deepak.mukherjee@email.com,+918836337675,Hyderabad,Gujarat,India,2023-03-09,Basic
+CUST00529,Gita Das,vikram.joshi@email.com,+919255847950,Lucknow,Maharashtra,India,2024-09-14,Basic
+CUST00530,Aditya Das,aditya.nair@email.com,+918663861118,Pune,UP,India,2024-04-07,Basic
+CUST00531,Sunil Patel,suresh.mishra@email.com,+918814461270,Kolkata,West Bengal,India,2023-07-14,Basic
+CUST00532,Krishna Patel,sunil.chauhan@email.com,+919514478795,Jaipur,UP,India,2024-06-13,Silver
+CUST00533,Priya Chauhan,deepak.sharma@email.com,+917387318705,Lucknow,West Bengal,India,2024-02-07,Gold
+CUST00534,Sanjay Gupta,ananya.singh@email.com,+919249778189,Ahmedabad,Gujarat,India,2024-10-26,Silver
+CUST00535,Shaurya Patel,aditya.patel@email.com,+917621083944,Lucknow,Karnataka,India,2024-01-23,Basic
+CUST00536,Ishaan Reddy,deepak.mishra@email.com,+917015173668,Delhi,Kerala,India,2024-03-05,Gold
+CUST00537,Nisha Nair,nisha.das@email.com,+917931466076,Lucknow,Kerala,India,2023-01-13,Platinum
+CUST00538,Geeta Iyer,sai.mukherjee@email.com,+919661874865,Chennai,UP,India,2024-04-09,Silver
+CUST00539,Sita Mukherjee,vihaan.desai@email.com,+918281796685,Mumbai,Telangana,India,2023-02-20,Basic
+CUST00540,Gita Banerjee,diya.patel@email.com,+919414532686,Lucknow,Karnataka,India,2023-02-20,Platinum
+CUST00541,Sanjay Pandey,aditya.gupta@email.com,+917290626163,Hyderabad,Gujarat,India,2024-08-15,Basic
+CUST00542,Sunita Reddy,krishna.iyer@email.com,+919988564933,Pune,Tamil Nadu,India,2023-10-27,Basic
+CUST00543,Shreya Tiwari,sunita.gupta@email.com,+919614967674,Lucknow,Telangana,India,2023-04-22,Gold
+CUST00544,Sita Rao,lata.desai@email.com,+919232119411,Lucknow,Rajasthan,India,2024-06-22,Platinum
+CUST00545,Krishna Sharma,anjali.mishra@email.com,+918996668602,Mumbai,Delhi,India,2023-07-04,Silver
+CUST00546,Neha Sharma,rajesh.verma@email.com,+919751434706,Jaipur,Tamil Nadu,India,2024-09-22,Gold
+CUST00547,Aarav Singh,pooja.mishra@email.com,+919945642274,Hyderabad,Telangana,India,2023-09-18,Gold
+CUST00548,Rohit Joshi,lata.sharma@email.com,+919888249353,Chennai,Rajasthan,India,2024-02-10,Platinum
+CUST00549,Rohit Chauhan,meera.kumar@email.com,+918777914852,Jaipur,Maharashtra,India,2023-02-06,Gold
+CUST00550,Sita Joshi,rahul.das@email.com,+918518681304,Chennai,Delhi,India,2024-08-01,Silver
+CUST00551,Sita Mukherjee,rohit.pandey@email.com,+918673174406,Bangalore,Karnataka,India,2023-10-15,Basic
+CUST00552,Nisha Nair,rahul.verma@email.com,+918595939306,Delhi,Rajasthan,India,2023-11-12,Gold
+CUST00553,Priya Gupta,diya.singh@email.com,+918905995222,Mumbai,UP,India,2023-08-10,Basic
+CUST00554,Sunita Mishra,shaurya.reddy@email.com,+918405905813,Ahmedabad,Karnataka,India,2024-05-09,Basic
+CUST00555,Vikram Menon,ishaan.reddy@email.com,+917497511785,Ahmedabad,Maharashtra,India,2024-06-12,Gold
+CUST00556,Reyansh Menon,gita.gupta@email.com,+919830315936,Mumbai,West Bengal,India,2023-02-15,Basic
+CUST00557,Riya Das,neha.joshi@email.com,+918370737909,Kolkata,Rajasthan,India,2024-08-14,Basic
+CUST00558,Lata Das,riya.singh@email.com,+919207873733,,Delhi,India,2023-10-07,Silver
+CUST00559,Sita Nair,rahul.iyer@email.com,+917735620429,Kolkata,Delhi,India,2024-07-09,Gold
+CUST00560,Meera Verma,rekha.chauhan@email.com,+917454952643,Mumbai,Gujarat,India,2024-09-19,Basic
+CUST00561,Lata Desai,diya.mukherjee@email.com,+918341922388,Ahmedabad,Telangana,India,2023-03-30,Silver
+CUST00562,Sunil Singh,sai.chauhan@email.com,+918956719117,Delhi,West Bengal,India,2024-11-17,Platinum
+CUST00563,Aisha Desai,anjali.kumar@email.com,+918683957564,Lucknow,Karnataka,India,2024-04-26,Gold
+CUST00564,Meera Chauhan,vivaan.gupta@email.com,+917733587041,Hyderabad,West Bengal,India,2023-11-29,Gold
+CUST00565,Rahul Das,kavita.singh@email.com,+919789372578,Delhi,Delhi,India,2024-09-10,Gold
+CUST00566,Geeta Patel,radha.tiwari@email.com,+919071783372,Chennai,Gujarat,India,2024-06-29,Basic
+CUST00567,Sita Joshi,radha.tiwari@email.com,+919338725151,Pune,Tamil Nadu,India,2023-12-15,Silver
+CUST00568,Sunil Joshi,sita.rao@email.com,+919384083537,Lucknow,Delhi,India,2024-11-09,Platinum
+CUST00569,Vikram Joshi,suresh.gupta@email.com,+919122981496,Lucknow,Maharashtra,India,2023-06-30,Basic
+CUST00570,Deepak Das,radha.sharma@email.com,+918251996942,Bangalore,Gujarat,India,2023-08-11,Platinum
+CUST00571,Manoj Desai,rahul.mishra@email.com,+917383486488,Kolkata,Kerala,India,2023-07-20,Basic
+CUST00572,Sanjay Das,suresh.kumar@email.com,+917228180081,Mumbai,Maharashtra,India,2024-09-18,Gold
+CUST00573,Suresh Joshi,vivaan.nair@email.com,+918644068874,Lucknow,Gujarat,India,2023-04-23,Platinum
+CUST00574,Vikram Desai,diya.rao@email.com,+918792012815,Jaipur,Karnataka,India,2024-03-21,Gold
+CUST00575,Nisha Tiwari,aarav.gupta@email.com,+917583152392,Bangalore,Delhi,India,2024-11-17,Silver
+CUST00576,Diya Chauhan,sunil.mukherjee@email.com,+919187920410,Lucknow,Gujarat,India,2024-10-19,Platinum
+CUST00577,Nisha Nair,diya.tiwari@email.com,+919154908810,Lucknow,West Bengal,India,2024-01-29,Platinum
+CUST00578,Krishna Banerjee,aditya.verma@email.com,+919068168092,Hyderabad,Delhi,India,2024-07-13,Silver
+CUST00579,Lata Gupta,riya.chauhan@email.com,+918053260431,Jaipur,Rajasthan,India,2024-06-23,Basic
+CUST00580,Rekha Sharma,radha.mishra@email.com,+919013776199,Hyderabad,Rajasthan,India,2024-12-01,Platinum
+CUST00581,Shreya Patel,rajesh.desai@email.com,+917151725037,Kolkata,Kerala,India,2024-08-10,Gold
+CUST00582,Shreya Mukherjee,meera.banerjee@email.com,+917117244390,Mumbai,West Bengal,India,2024-07-31,Platinum
+CUST00583,Riya Iyer,arjun.iyer@email.com,+918103616435,Lucknow,Maharashtra,India,2023-03-26,Basic
+CUST00584,Diya Iyer,radha.kumar@email.com,+918014453592,Hyderabad,Rajasthan,India,2024-09-10,Silver
+CUST00585,Shaurya Rao,rohit.gupta@email.com,+918773597623,Lucknow,Gujarat,India,2024-06-24,Silver
+CUST00586,Vihaan Iyer,ananya.reddy@email.com,+917498192006,Hyderabad,Maharashtra,India,2024-11-07,Silver
+CUST00587,Anjali Pandey,pooja.rao@email.com,+919935652923,Jaipur,Gujarat,India,2024-04-20,Platinum
+CUST00588,Vikram Joshi,manoj.sharma@email.com,+919277421089,Ahmedabad,Maharashtra,India,2023-09-26,Basic
+CUST00589,Rohit Iyer,manoj.mukherjee@email.com,+918147133409,Kolkata,Delhi,India,2024-06-28,Gold
+CUST00590,Priya Menon,sunil.nair@email.com,+918449150306,Lucknow,Karnataka,India,2024-11-01,Gold
+CUST00591,Arjun Sharma,,+918766300020,,Delhi,India,2024-07-14,Basic
+CUST00592,Lata Gupta,shreya.iyer@email.com,+917244305931,Mumbai,Kerala,India,2024-04-01,Silver
+CUST00593,Vikram Banerjee,krishna.gupta@email.com,+917793575163,Bangalore,Delhi,India,2024-09-05,Silver
+CUST00594,Manoj Joshi,arjun.chauhan@email.com,+918105252271,Kolkata,Karnataka,India,2023-09-17,Basic
+CUST00595,Aisha Iyer,vikram.pandey@email.com,+917764201331,Mumbai,Rajasthan,India,2023-10-11,Basic
+CUST00596,Reyansh Kumar,priya.mukherjee@email.com,+919321997415,Ahmedabad,Gujarat,India,2024-05-18,Silver
+CUST00597,Arjun Banerjee,deepak.iyer@email.com,+918076303124,Delhi,Rajasthan,India,2024-09-20,Basic
+CUST00598,Shaurya Joshi,aarav.verma@email.com,+918680751126,Kolkata,Kerala,India,2024-05-24,Basic
+CUST00599,Rekha Nair,nisha.rao@email.com,+917014204998,Delhi,Gujarat,India,2024-06-11,Platinum
+CUST00600,Vihaan Gupta,amit.joshi@email.com,+918569189330,Pune,UP,India,2023-05-05,Gold
+CUST00601,Vikram Reddy,shreya.reddy@email.com,+918283638341,Mumbai,Gujarat,India,2023-03-24,Basic
+CUST00602,Priya Kumar,nisha.gupta@email.com,+917153323006,Ahmedabad,Tamil Nadu,India,2024-10-07,Basic
+CUST00603,Nisha Das,vikram.gupta@email.com,+918929760035,Kolkata,Maharashtra,India,2024-08-30,Basic
+CUST00604,Sunil Das,aditya.pandey@email.com,+917639750957,Jaipur,Kerala,India,2023-12-14,Silver
+CUST00605,Meera Mukherjee,,+917196716790,Mumbai,Tamil Nadu,India,2023-03-15,Silver
+CUST00606,Sunil Mukherjee,vihaan.mishra@email.com,+917733105340,Delhi,Kerala,India,2023-01-15,Basic
+CUST00607,Manoj Joshi,gita.mukherjee@email.com,+919913696513,Chennai,Gujarat,India,2023-04-19,Gold
+CUST00608,Aditya Banerjee,sita.das@email.com,+917744951997,Chennai,Telangana,India,2023-05-04,Basic
+CUST00609,Ananya Chauhan,rajesh.patel@email.com,+918046445603,Jaipur,Kerala,India,2023-05-04,Basic
+CUST00610,Nisha Gupta,lata.pandey@email.com,+917027271239,Mumbai,Maharashtra,India,2023-05-17,Silver
+CUST00611,Ishaan Reddy,radha.mishra@email.com,+917614557693,Ahmedabad,West Bengal,India,2023-04-02,Platinum
+CUST00612,Diya Rao,diya.mukherjee@email.com,+919628733950,Lucknow,Delhi,India,2024-02-26,Gold
+CUST00613,Reyansh Mukherjee,geeta.nair@email.com,+918554354263,Jaipur,UP,India,2023-12-23,Silver
+CUST00614,Shaurya Rao,neha.iyer@email.com,+919136809970,Delhi,Karnataka,India,2024-04-20,Silver
+CUST00615,Aisha Joshi,vihaan.desai@email.com,+919649218939,Pune,Rajasthan,India,2024-11-17,Basic
+CUST00616,Nisha Menon,rekha.patel@email.com,+917498495745,Mumbai,Delhi,India,2023-04-17,Silver
+CUST00617,Anjali Singh,rahul.tiwari@email.com,+918400727238,Hyderabad,Tamil Nadu,India,2024-03-31,Basic
+CUST00618,Meera Banerjee,priya.pandey@email.com,+919080515301,Delhi,Maharashtra,India,2023-08-31,Platinum
+CUST00619,Ishaan Chauhan,lata.chauhan@email.com,+917833889032,Hyderabad,Telangana,India,2023-05-29,Gold
+CUST00620,Krishna Chauhan,aditya.banerjee@email.com,+918969581487,Bangalore,Gujarat,India,2023-07-27,Silver
+CUST00621,Ananya Banerjee,shreya.mukherjee@email.com,+919374067376,Lucknow,Tamil Nadu,India,2023-12-18,Basic
+CUST00622,Riya Sharma,nisha.reddy@email.com,+918838720022,Ahmedabad,Tamil Nadu,India,2024-02-26,Silver
+CUST00623,Aarav Tiwari,anjali.banerjee@email.com,+917189941491,Lucknow,Maharashtra,India,2023-12-02,Platinum
+CUST00624,Reyansh Chauhan,,+919127233070,Ahmedabad,Tamil Nadu,India,2024-05-31,Basic
+CUST00625,Kavya Gupta,rajesh.reddy@email.com,+917068419527,Kolkata,Rajasthan,India,2024-07-25,Gold
+CUST00626,Sunil Chauhan,sita.banerjee@email.com,+917595385173,,Gujarat,India,2023-06-15,Silver
+CUST00627,Sunita Verma,aarav.gupta@email.com,+918273844284,Hyderabad,Gujarat,India,2024-01-15,Gold
+CUST00628,Vihaan Menon,neha.gupta@email.com,+919897612417,Hyderabad,Telangana,India,2024-09-19,Basic
+CUST00629,Diya Das,sunil.mukherjee@email.com,+917287788210,Hyderabad,UP,India,2023-04-24,Silver
+CUST00630,Radha Reddy,kavya.das@email.com,+917968245518,Ahmedabad,Telangana,India,2023-05-22,Gold
+CUST00631,Amit Chauhan,manoj.iyer@email.com,+919088328665,Hyderabad,UP,India,2023-10-01,Basic
+CUST00632,Arjun Reddy,rekha.mishra@email.com,+918966554388,Hyderabad,Delhi,India,2024-04-26,Basic
+CUST00633,Krishna Kumar,shreya.gupta@email.com,+919131715682,Kolkata,Karnataka,India,2024-02-05,Silver
+CUST00634,Ishaan Rao,vivaan.mishra@email.com,+918489066210,Jaipur,Gujarat,India,2024-06-17,Platinum
+CUST00635,Anjali Menon,,+919768845297,Mumbai,Telangana,India,2024-10-22,Platinum
+CUST00636,Geeta Chauhan,rahul.rao@email.com,+918967125474,Jaipur,West Bengal,India,2024-08-15,Silver
+CUST00637,Vihaan Kumar,aisha.nair@email.com,+918516642718,Kolkata,West Bengal,India,2023-11-10,Platinum
+CUST00638,Shaurya Patel,ananya.das@email.com,+918021795614,Bangalore,Delhi,India,2023-06-20,Basic
+CUST00639,Geeta Verma,deepak.iyer@email.com,+919858529583,Chennai,Telangana,India,2023-11-21,Gold
+CUST00640,Vivaan Pandey,rekha.patel@email.com,+919144979311,Delhi,Karnataka,India,2023-06-01,Platinum
+CUST00641,Meera Mishra,rekha.menon@email.com,+919464141209,Kolkata,Karnataka,India,2023-11-24,Platinum
+CUST00642,Krishna Mishra,meera.verma@email.com,+917106496266,Jaipur,Gujarat,India,2023-12-13,Silver
+CUST00643,Radha Menon,rahul.verma@email.com,+917954100590,Chennai,West Bengal,India,2024-04-01,Silver
+CUST00644,Priya Rao,deepak.gupta@email.com,+918364759413,Pune,Kerala,India,2023-01-24,Basic
+CUST00645,Aarav Mishra,shaurya.tiwari@email.com,+918481421047,Hyderabad,Telangana,India,2024-11-13,Gold
+CUST00646,Rajesh Chauhan,sai.reddy@email.com,+918239673672,Ahmedabad,Karnataka,India,2024-04-01,Platinum
+CUST00647,Pooja Rao,radha.mukherjee@email.com,+919256150810,Chennai,Telangana,India,2024-02-29,Basic
+CUST00648,Rajesh Patel,sai.sharma@email.com,+919387202297,Kolkata,Rajasthan,India,2024-08-27,Silver
+CUST00649,Pooja Banerjee,vikram.mishra@email.com,+918305302324,Mumbai,Rajasthan,India,2023-07-24,Platinum
+CUST00650,Aisha Mishra,,+919751163659,,Rajasthan,India,2023-08-18,Basic
+CUST00651,Vivaan Singh,shreya.tiwari@email.com,+918190638090,Chennai,Rajasthan,India,2024-10-31,Basic
+CUST00652,Meera Singh,radha.rao@email.com,+918602891324,Kolkata,UP,India,2024-09-05,Basic
+CUST00653,Amit Patel,vihaan.kumar@email.com,+917227153651,Bangalore,West Bengal,India,2023-09-23,Gold
+CUST00654,Arjun Menon,amit.verma@email.com,+917832428352,Jaipur,Karnataka,India,2024-03-05,Basic
+CUST00655,Riya Desai,rekha.joshi@email.com,+917411601358,Kolkata,UP,India,2024-09-05,Gold
+CUST00656,Nisha Tiwari,,+918461633584,Hyderabad,Karnataka,India,2023-05-28,Basic
+CUST00657,Lata Menon,anjali.reddy@email.com,+919285333436,Jaipur,UP,India,2023-08-12,Basic
+CUST00658,Meera Desai,arjun.singh@email.com,+918338197849,Mumbai,Telangana,India,2024-03-03,Silver
+CUST00659,Diya Mishra,gita.menon@email.com,+917123521259,Hyderabad,Delhi,India,2024-03-28,Silver
+CUST00660,Ishaan Gupta,shaurya.nair@email.com,+918824523903,Chennai,Delhi,India,2023-05-12,Basic
+CUST00661,Kavita Banerjee,manoj.verma@email.com,+917254542263,Mumbai,Rajasthan,India,2023-01-20,Basic
+CUST00662,Reyansh Singh,,+919584676841,Mumbai,Tamil Nadu,India,2023-09-17,Silver
+CUST00663,Radha Desai,vivaan.gupta@email.com,+918512701547,Kolkata,Karnataka,India,2023-07-09,Silver
+CUST00664,Neha Reddy,reyansh.banerjee@email.com,+918210565696,Jaipur,Karnataka,India,2024-06-01,Basic
+CUST00665,Diya Chauhan,kavita.rao@email.com,+919892770843,Lucknow,Delhi,India,2023-04-12,Silver
+CUST00666,Krishna Joshi,manoj.reddy@email.com,+917530924113,Pune,Rajasthan,India,2023-12-30,Basic
+CUST00667,Sai Joshi,sanjay.mishra@email.com,+919120480340,Mumbai,Delhi,India,2024-06-16,Platinum
+CUST00668,Shreya Tiwari,pooja.chauhan@email.com,+917810825323,Pune,Delhi,India,2023-10-18,Platinum
+CUST00669,Deepak Menon,aarav.rao@email.com,+919828443248,Pune,Delhi,India,2024-11-26,Basic
+CUST00670,Arjun Desai,radha.singh@email.com,+917855069520,Bangalore,Telangana,India,2023-05-27,Silver
+CUST00671,Nisha Iyer,suresh.singh@email.com,+919499321452,Pune,Kerala,India,2024-09-01,Gold
+CUST00672,Nisha Menon,amit.rao@email.com,+918197826153,Pune,Karnataka,India,2024-10-21,Platinum
+CUST00673,Vivaan Singh,nisha.rao@email.com,+917226999410,Bangalore,Delhi,India,2023-04-21,Platinum
+CUST00674,Rahul Kumar,,+918300312565,Lucknow,Kerala,India,2024-11-25,Basic
+CUST00675,Shreya Rao,sunita.rao@email.com,+919105609249,Chennai,UP,India,2023-03-20,Gold
+CUST00676,Aditya Tiwari,rekha.das@email.com,+917511677101,,Gujarat,India,2024-07-09,Platinum
+CUST00677,Geeta Mishra,deepak.chauhan@email.com,+917704994153,Bangalore,Rajasthan,India,2023-11-19,Platinum
+CUST00678,Nisha Das,vikram.rao@email.com,+919943659619,Lucknow,UP,India,2023-05-18,Platinum
+CUST00679,Nisha Banerjee,ananya.menon@email.com,+918622628777,Kolkata,Kerala,India,2024-05-02,Gold
+CUST00680,Amit Banerjee,vivaan.banerjee@email.com,+917115533921,Hyderabad,Telangana,India,2023-10-19,Platinum
+CUST00681,Kavya Nair,amit.tiwari@email.com,+919783494552,Chennai,West Bengal,India,2023-04-10,Basic
+CUST00682,Rahul Verma,krishna.joshi@email.com,+918979590743,Jaipur,Gujarat,India,2023-03-09,Platinum
+CUST00683,Rahul Pandey,,+919449649820,Mumbai,Gujarat,India,2023-10-01,Gold
+CUST00684,Rohit Rao,nisha.singh@email.com,+919159374355,Chennai,Telangana,India,2024-08-09,Silver
+CUST00685,Rekha Reddy,manoj.reddy@email.com,+918234182744,Delhi,West Bengal,India,2024-09-21,Basic
+CUST00686,Radha Singh,suresh.nair@email.com,+919542039357,Delhi,Telangana,India,2023-11-01,Gold
+CUST00687,Arjun Mishra,sunita.rao@email.com,+919167410280,Hyderabad,West Bengal,India,2023-03-10,Platinum
+CUST00688,Kavita Chauhan,priya.tiwari@email.com,+919884329289,Lucknow,UP,India,2024-11-10,Silver
+CUST00689,Sunil Iyer,sunita.patel@email.com,+919739872850,Chennai,UP,India,2023-01-20,Platinum
+CUST00690,Shaurya Nair,vihaan.menon@email.com,+917646275116,Ahmedabad,West Bengal,India,2024-08-02,Platinum
+CUST00691,Shreya Patel,arjun.reddy@email.com,+918101429904,Kolkata,Kerala,India,2024-02-25,Silver
+CUST00692,Pooja Chauhan,shaurya.reddy@email.com,+919084701332,,UP,India,2024-02-20,Platinum
+CUST00693,Vivaan Iyer,aditya.reddy@email.com,+918193021614,Bangalore,UP,India,2024-03-08,Silver
+CUST00694,Rahul Mukherjee,nisha.sharma@email.com,+918279810812,Delhi,Delhi,India,2024-10-21,Platinum
+CUST00695,Kavya Singh,sai.pandey@email.com,+919452311986,Bangalore,UP,India,2024-01-08,Basic
+CUST00696,Kavya Mukherjee,radha.menon@email.com,+917525174990,Delhi,Telangana,India,2024-06-18,Gold
+CUST00697,Diya Reddy,kavya.tiwari@email.com,+918179171816,Delhi,Rajasthan,India,2024-08-21,Platinum
+CUST00698,Rahul Das,vihaan.rao@email.com,+918820126903,Delhi,Rajasthan,India,2023-09-18,Silver
+CUST00699,Pooja Sharma,shaurya.desai@email.com,+919771961511,Hyderabad,Kerala,India,2023-10-12,Basic
+CUST00700,Pooja Desai,vihaan.nair@email.com,+919943119201,Pune,Delhi,India,2024-11-09,Silver
+CUST00701,Pooja Reddy,suresh.iyer@email.com,+917688170710,Chennai,Rajasthan,India,2024-03-29,Gold
+CUST00702,Meera Tiwari,aditya.iyer@email.com,+918429031013,Ahmedabad,Gujarat,India,2024-10-21,Basic
+CUST00703,Geeta Joshi,kavita.gupta@email.com,+918946744390,Lucknow,Maharashtra,India,2023-06-14,Basic
+CUST00704,Priya Mishra,deepak.kumar@email.com,+918347424894,,Kerala,India,2024-10-18,Basic
+CUST00705,Rahul Chauhan,sunita.kumar@email.com,+919054564070,Pune,Karnataka,India,2023-04-24,Gold
+CUST00706,Sanjay Patel,rahul.mishra@email.com,+918690044623,Pune,Gujarat,India,2023-06-27,Silver
+CUST00707,Sunil Reddy,geeta.mukherjee@email.com,+918124350133,Delhi,Karnataka,India,2023-01-22,Basic
+CUST00708,Ananya Banerjee,gita.iyer@email.com,+917504016658,Hyderabad,Maharashtra,India,2024-02-15,Platinum
+CUST00709,Priya Iyer,nisha.singh@email.com,+918236787255,Chennai,Rajasthan,India,2024-04-09,Platinum
+CUST00710,Priya Tiwari,neha.mukherjee@email.com,+917774682704,Kolkata,Gujarat,India,2023-05-14,Silver
+CUST00711,Sanjay Banerjee,aisha.nair@email.com,+919938904748,Chennai,Rajasthan,India,2023-01-30,Basic
+CUST00712,Manoj Mukherjee,rahul.pandey@email.com,+918100480553,Pune,Delhi,India,2023-01-11,Basic
+CUST00713,Gita Mukherjee,rohit.nair@email.com,+917195472006,Hyderabad,Maharashtra,India,2024-07-24,Gold
+CUST00714,Geeta Verma,pooja.pandey@email.com,+919493172294,Bangalore,Karnataka,India,2024-05-31,Gold
+CUST00715,Sunita Tiwari,rohit.chauhan@email.com,+917609008040,Hyderabad,West Bengal,India,2023-06-23,Basic
+CUST00716,Sanjay Tiwari,,+918215155799,Kolkata,West Bengal,India,2023-11-17,Gold
+CUST00717,Shaurya Das,ananya.joshi@email.com,+919823595144,Ahmedabad,Rajasthan,India,2024-06-13,Basic
+CUST00718,Ananya Chauhan,anjali.patel@email.com,+918874452023,Kolkata,Delhi,India,2023-07-13,Platinum
+CUST00719,Shaurya Singh,geeta.rao@email.com,+918501539056,Delhi,Delhi,India,2023-02-11,Silver
+CUST00720,Radha Reddy,ananya.menon@email.com,+919506316951,Lucknow,Maharashtra,India,2023-10-18,Silver
+CUST00721,Vivaan Mishra,kavya.rao@email.com,+919926214216,Hyderabad,Delhi,India,2024-03-02,Platinum
+CUST00722,Sunil Rao,reyansh.joshi@email.com,+918950153579,Delhi,West Bengal,India,2024-01-18,Basic
+CUST00723,Ishaan Reddy,lata.chauhan@email.com,+917209088658,Lucknow,West Bengal,India,2023-12-04,Gold
+CUST00724,Aisha Patel,geeta.mukherjee@email.com,+918031136291,Pune,Gujarat,India,2023-02-26,Basic
+CUST00725,Shaurya Singh,ananya.pandey@email.com,+918282248157,Kolkata,Rajasthan,India,2023-01-22,Platinum
+CUST00726,Sanjay Menon,gita.kumar@email.com,+917858440538,Delhi,Rajasthan,India,2023-11-14,Platinum
+CUST00727,Sanjay Mukherjee,sita.mukherjee@email.com,+917800392193,Pune,Gujarat,India,2024-02-02,Platinum
+CUST00728,Anjali Kumar,,+919127392866,Ahmedabad,UP,India,2023-04-06,Basic
+CUST00729,Pooja Nair,sai.rao@email.com,+919246663276,Bangalore,Gujarat,India,2023-10-25,Gold
+CUST00730,Kavita Singh,,+919193231853,Mumbai,Gujarat,India,2024-08-05,Platinum
+CUST00731,Sai Menon,sita.iyer@email.com,+917069873508,Lucknow,Delhi,India,2023-04-07,Platinum
+CUST00732,Rahul Banerjee,suresh.verma@email.com,+918954202161,Kolkata,Rajasthan,India,2023-07-03,Gold
+CUST00733,Aisha Singh,diya.reddy@email.com,+918863152169,Lucknow,UP,India,2023-12-16,Basic
+CUST00734,Suresh Mukherjee,aarav.patel@email.com,+919090457198,Ahmedabad,West Bengal,India,2023-01-06,Gold
+CUST00735,Aarav Reddy,suresh.mishra@email.com,+917480660531,Bangalore,Maharashtra,India,2024-11-20,Silver
+CUST00736,Priya Gupta,shaurya.nair@email.com,+918292432406,Jaipur,Rajasthan,India,2023-01-28,Silver
+CUST00737,Nisha Rao,krishna.patel@email.com,+917084300652,Ahmedabad,Rajasthan,India,2024-04-30,Silver
+CUST00738,Manoj Tiwari,suresh.verma@email.com,+919129029086,Delhi,Kerala,India,2023-07-26,Gold
+CUST00739,Nisha Nair,nisha.menon@email.com,+917260724636,Lucknow,UP,India,2023-02-07,Basic
+CUST00740,Meera Singh,geeta.gupta@email.com,+919125101713,Pune,Kerala,India,2024-03-08,Gold
+CUST00741,Meera Desai,vivaan.patel@email.com,+918881671087,Chennai,Tamil Nadu,India,2024-04-04,Silver
+CUST00742,Ishaan Mishra,rohit.mukherjee@email.com,+918676631657,Ahmedabad,Gujarat,India,2024-08-24,Gold
+CUST00743,Meera Kumar,ananya.mukherjee@email.com,+917744279636,Delhi,Tamil Nadu,India,2024-04-28,Silver
+CUST00744,Geeta Verma,rajesh.rao@email.com,+917077870311,Chennai,Telangana,India,2024-09-12,Gold
+CUST00745,Rohit Tiwari,diya.menon@email.com,+917489494385,Delhi,Kerala,India,2024-01-01,Silver
+CUST00746,Aditya Das,nisha.iyer@email.com,+918148866092,Hyderabad,Karnataka,India,2023-05-04,Basic
+CUST00747,Reyansh Mukherjee,deepak.chauhan@email.com,+919618451922,Delhi,Delhi,India,2023-02-21,Basic
+CUST00748,Shreya Chauhan,krishna.reddy@email.com,+919172809426,Bangalore,Rajasthan,India,2024-06-03,Basic
+CUST00749,Deepak Tiwari,rohit.kumar@email.com,+917028293433,Chennai,Tamil Nadu,India,2023-06-07,Platinum
+CUST00750,Sanjay Nair,ananya.gupta@email.com,+917651165188,Pune,UP,India,2023-12-16,Platinum
+CUST00751,Sunita Desai,manoj.tiwari@email.com,+917127830795,Ahmedabad,Rajasthan,India,2023-08-22,Silver
+CUST00752,Suresh Patel,sunita.gupta@email.com,+918864326250,Hyderabad,Maharashtra,India,2023-01-11,Platinum
+CUST00753,Shreya Tiwari,shaurya.banerjee@email.com,+918726588942,Jaipur,UP,India,2023-02-07,Gold
+CUST00754,Shaurya Pandey,aarav.iyer@email.com,+918916367361,Lucknow,Tamil Nadu,India,2023-11-18,Platinum
+CUST00755,Aditya Das,suresh.reddy@email.com,+918436636180,Delhi,Gujarat,India,2023-12-20,Silver
+CUST00756,Pooja Menon,shreya.reddy@email.com,+918463333495,Jaipur,Karnataka,India,2024-06-16,Basic
+CUST00757,Manoj Menon,rekha.banerjee@email.com,+917474344355,Kolkata,Maharashtra,India,2023-01-29,Gold
+CUST00758,Deepak Mishra,amit.singh@email.com,+919458590795,Delhi,Maharashtra,India,2023-09-23,Platinum
+CUST00759,Gita Nair,radha.banerjee@email.com,+918504686545,Jaipur,West Bengal,India,2023-12-14,Gold
+CUST00760,Kavya Singh,sita.kumar@email.com,+918408091983,Jaipur,UP,India,2024-11-13,Silver
+CUST00761,Sai Verma,shaurya.tiwari@email.com,+918824874609,Delhi,Karnataka,India,2024-01-05,Platinum
+CUST00762,Sunita Pandey,sanjay.menon@email.com,+918132555847,Jaipur,Kerala,India,2023-08-08,Platinum
+CUST00763,Ananya Kumar,deepak.rao@email.com,+919172333857,Pune,Karnataka,India,2024-10-13,Platinum
+CUST00764,Sunil Rao,kavita.menon@email.com,+917140047655,Chennai,Karnataka,India,2024-04-13,Gold
+CUST00765,Shreya Verma,rajesh.singh@email.com,+919245312271,Lucknow,Karnataka,India,2023-05-02,Basic
+CUST00766,Shaurya Kumar,sanjay.mishra@email.com,+919532416852,Mumbai,Gujarat,India,2024-01-16,Basic
+CUST00767,Aarav Singh,neha.patel@email.com,+919351654798,Ahmedabad,Telangana,India,2023-11-09,Basic
+CUST00768,Vikram Rao,sita.mishra@email.com,+919601503399,Hyderabad,Karnataka,India,2023-02-15,Silver
+CUST00769,Sai Mukherjee,deepak.chauhan@email.com,+919854015704,Hyderabad,Kerala,India,2024-05-31,Platinum
+CUST00770,Riya Gupta,suresh.joshi@email.com,+917711310051,Ahmedabad,Maharashtra,India,2024-02-01,Gold
+CUST00771,Rekha Banerjee,geeta.gupta@email.com,+917227093741,Lucknow,Kerala,India,2024-07-28,Silver
+CUST00772,Diya Sharma,vivaan.singh@email.com,+918180955041,Jaipur,Tamil Nadu,India,2024-05-02,Silver
+CUST00773,Aditya Rao,rekha.mukherjee@email.com,+917099914907,Lucknow,Telangana,India,2024-08-16,Platinum
+CUST00774,Krishna Singh,sunita.joshi@email.com,+919326924276,Delhi,Karnataka,India,2023-07-04,Gold
+CUST00775,Ananya Verma,sai.kumar@email.com,+919639151858,Pune,Telangana,India,2023-05-28,Silver
+CUST00776,Rajesh Joshi,pooja.pandey@email.com,+918107819345,Bangalore,Gujarat,India,2023-01-28,Basic
+CUST00777,Kavita Pandey,gita.banerjee@email.com,+917494270721,Jaipur,West Bengal,India,2023-02-23,Basic
+CUST00778,Anjali Sharma,rajesh.gupta@email.com,+918156032258,Pune,UP,India,2023-11-22,Basic
+CUST00779,Sai Menon,ishaan.mishra@email.com,+917873840758,Ahmedabad,Karnataka,India,2023-09-10,Gold
+CUST00780,Deepak Verma,kavya.das@email.com,+917004299516,Jaipur,Rajasthan,India,2024-07-07,Gold
+CUST00781,Riya Mukherjee,aarav.verma@email.com,+918077559866,Ahmedabad,Gujarat,India,2024-10-30,Gold
+CUST00782,Sita Gupta,kavita.mishra@email.com,+918291231895,Jaipur,Delhi,India,2024-10-09,Platinum
+CUST00783,Lata Menon,geeta.iyer@email.com,+918367105004,Chennai,Telangana,India,2023-05-06,Gold
+CUST00784,Rohit Sharma,rahul.joshi@email.com,+919971451918,Lucknow,Karnataka,India,2024-04-08,Basic
+CUST00785,Suresh Das,aarav.patel@email.com,+917348531386,Ahmedabad,Delhi,India,2024-09-15,Basic
+CUST00786,Gita Desai,krishna.desai@email.com,+918661083050,Pune,Karnataka,India,2024-11-18,Basic
+CUST00787,Vivaan Iyer,priya.chauhan@email.com,+919922958662,,Telangana,India,2023-05-08,Silver
+CUST00788,Sanjay Verma,pooja.nair@email.com,+918205839367,Ahmedabad,Rajasthan,India,2023-04-03,Silver
+CUST00789,Kavita Rao,suresh.singh@email.com,+917732193544,Lucknow,UP,India,2023-01-08,Silver
+CUST00790,Ishaan Gupta,gita.banerjee@email.com,+917547311602,Lucknow,West Bengal,India,2024-11-06,Silver
+CUST00791,Rekha Mukherjee,riya.reddy@email.com,+918086287723,Mumbai,UP,India,2024-06-19,Platinum
+CUST00792,Riya Singh,vihaan.joshi@email.com,+919921322839,Pune,UP,India,2023-01-03,Platinum
+CUST00793,Rekha Chauhan,aditya.nair@email.com,+918358248920,Pune,Maharashtra,India,2024-05-22,Platinum
+CUST00794,Manoj Gupta,sita.sharma@email.com,+918073673810,Chennai,Tamil Nadu,India,2023-07-19,Silver
+CUST00795,Radha Joshi,reyansh.sharma@email.com,+918075500493,Mumbai,Tamil Nadu,India,2023-12-04,Basic
+CUST00796,Kavya Gupta,rohit.verma@email.com,+919576828779,Jaipur,Kerala,India,2024-04-29,Platinum
+CUST00797,Aditya Pandey,radha.singh@email.com,+918345524913,Mumbai,Delhi,India,2023-04-08,Silver
+CUST00798,Arjun Singh,deepak.verma@email.com,+919910117187,Pune,Maharashtra,India,2023-03-05,Basic
+CUST00799,Anjali Mukherjee,suresh.singh@email.com,+919833493147,Pune,Kerala,India,2023-10-29,Basic
+CUST00800,Vivaan Chauhan,manoj.mukherjee@email.com,+919221412448,Hyderabad,Telangana,India,2024-04-09,Silver
+CUST00801,Sita Kumar,gita.gupta@email.com,+919737456406,Chennai,UP,India,2023-04-21,Gold
+CUST00802,Aditya Verma,lata.chauhan@email.com,+917548384670,Bangalore,West Bengal,India,2023-12-30,Platinum
+CUST00803,Shaurya Kumar,amit.mishra@email.com,+919016589212,Jaipur,West Bengal,India,2024-06-09,Gold
+CUST00804,Vihaan Nair,aarav.menon@email.com,+919178011686,Bangalore,UP,India,2023-10-26,Basic
+CUST00805,Priya Rao,priya.reddy@email.com,+919984064140,Hyderabad,Rajasthan,India,2024-03-08,Gold
+CUST00806,Ananya Singh,rohit.mukherjee@email.com,+918951212610,Hyderabad,Maharashtra,India,2024-08-15,Platinum
+CUST00807,Kavya Rao,anjali.nair@email.com,+918423846528,Chennai,Gujarat,India,2023-08-13,Silver
+CUST00808,Amit Sharma,aarav.desai@email.com,+919382382306,,Delhi,India,2024-02-14,Silver
+CUST00809,Priya Reddy,radha.desai@email.com,+918220204027,Mumbai,Karnataka,India,2023-10-25,Silver
+CUST00810,Vivaan Patel,rohit.das@email.com,+918124373488,Chennai,Delhi,India,2023-09-26,Basic
+CUST00811,Sunil Nair,krishna.joshi@email.com,+918587594499,Kolkata,Telangana,India,2024-11-24,Silver
+CUST00812,Krishna Kumar,lata.tiwari@email.com,+917561758878,Delhi,Tamil Nadu,India,2024-06-23,Silver
+CUST00813,Aditya Mukherjee,sanjay.joshi@email.com,+919522545423,Chennai,Tamil Nadu,India,2024-06-29,Gold
+CUST00814,Radha Rao,vihaan.iyer@email.com,+917898668512,Jaipur,Delhi,India,2023-06-02,Platinum
+CUST00815,Sanjay Rao,ananya.menon@email.com,+919228625736,Jaipur,Rajasthan,India,2024-11-10,Silver
+CUST00816,Meera Iyer,sunita.rao@email.com,+919496177821,Ahmedabad,Gujarat,India,2023-11-26,Basic
+CUST00817,Neha Mishra,priya.chauhan@email.com,+918825459235,Pune,Gujarat,India,2023-08-01,Silver
+CUST00818,Deepak Menon,sai.kumar@email.com,+918510002930,Kolkata,Tamil Nadu,India,2024-01-19,Basic
+CUST00819,Rajesh Desai,rohit.tiwari@email.com,+919136931179,Pune,Telangana,India,2024-04-21,Gold
+CUST00820,Arjun Desai,,+917353984828,Kolkata,West Bengal,India,2024-01-27,Basic
+CUST00821,Rekha Reddy,reyansh.singh@email.com,+918433479019,Mumbai,Tamil Nadu,India,2023-10-11,Gold
+CUST00822,Rekha Iyer,riya.reddy@email.com,+917036652731,Bangalore,West Bengal,India,2023-09-14,Gold
+CUST00823,Meera Menon,suresh.pandey@email.com,+917641157612,Mumbai,Gujarat,India,2023-12-21,Silver
+CUST00824,Geeta Chauhan,neha.rao@email.com,+918981702791,Lucknow,Telangana,India,2023-08-21,Basic
+CUST00825,Geeta Sharma,manoj.tiwari@email.com,+918609324972,Ahmedabad,Karnataka,India,2023-11-17,Silver
+CUST00826,Rohit Nair,aarav.rao@email.com,+918800224026,Hyderabad,Gujarat,India,2023-11-09,Platinum
+CUST00827,Ishaan Kumar,radha.sharma@email.com,+918418415203,Mumbai,Kerala,India,2024-07-04,Platinum
+CUST00828,Meera Singh,suresh.gupta@email.com,+918412362910,Chennai,Kerala,India,2024-01-26,Platinum
+CUST00829,Diya Verma,sai.patel@email.com,+919959337888,Jaipur,Kerala,India,2024-10-16,Platinum
+CUST00830,Shreya Menon,arjun.pandey@email.com,+917300559360,Chennai,Rajasthan,India,2023-01-28,Basic
+CUST00831,Suresh Patel,ananya.joshi@email.com,+917475641654,Pune,Karnataka,India,2024-01-13,Platinum
+CUST00832,Pooja Tiwari,vikram.reddy@email.com,+919855262673,Chennai,Rajasthan,India,2024-05-04,Silver
+CUST00833,Riya Reddy,pooja.banerjee@email.com,+917031968743,Ahmedabad,Karnataka,India,2024-09-10,Platinum
+CUST00834,Nisha Chauhan,gita.nair@email.com,+918987261847,Lucknow,Kerala,India,2023-03-07,Basic
+CUST00835,Suresh Mukherjee,sunil.desai@email.com,+917752161682,Kolkata,Gujarat,India,2023-04-04,Silver
+CUST00836,Sita Singh,manoj.chauhan@email.com,+918690290029,Bangalore,Maharashtra,India,2023-07-03,Silver
+CUST00837,Neha Rao,rekha.mishra@email.com,+918766426225,Delhi,UP,India,2023-06-11,Basic
+CUST00838,Rajesh Chauhan,reyansh.menon@email.com,+917707978579,Hyderabad,West Bengal,India,2024-01-13,Silver
+CUST00839,Sunil Pandey,,+918475998631,,Gujarat,India,2024-06-02,Silver
+CUST00840,Rahul Chauhan,,+919082025057,Bangalore,Rajasthan,India,2024-02-11,Basic
+CUST00841,Ananya Patel,kavya.chauhan@email.com,+917077593439,Kolkata,Kerala,India,2023-03-26,Basic
+CUST00842,Riya Kumar,rekha.pandey@email.com,+918892611654,Mumbai,Telangana,India,2023-07-01,Silver
+CUST00843,Sunita Singh,rekha.reddy@email.com,+918677693197,Mumbai,West Bengal,India,2023-08-10,Platinum
+CUST00844,Sanjay Nair,vihaan.pandey@email.com,+917858932011,Chennai,Delhi,India,2023-02-23,Basic
+CUST00845,Priya Gupta,,+917947331685,,Delhi,India,2024-03-07,Silver
+CUST00846,Rahul Das,,+919692027250,Hyderabad,Tamil Nadu,India,2023-06-21,Silver
+CUST00847,Amit Joshi,manoj.singh@email.com,+917745698933,Delhi,Maharashtra,India,2024-07-08,Platinum
+CUST00848,Riya Mukherjee,vikram.reddy@email.com,+918584756879,Delhi,Maharashtra,India,2024-10-31,Basic
+CUST00849,Rekha Banerjee,gita.rao@email.com,+917736411292,Delhi,West Bengal,India,2023-08-12,Basic
+CUST00850,Meera Gupta,vikram.kumar@email.com,+918439265956,Hyderabad,Maharashtra,India,2024-09-06,Platinum
+CUST00851,Anjali Sharma,anjali.menon@email.com,+919647197407,Mumbai,Delhi,India,2024-01-27,Gold
+CUST00852,Sanjay Rao,kavya.mukherjee@email.com,+918273950560,Bangalore,Tamil Nadu,India,2023-08-31,Silver
+CUST00853,Deepak Joshi,aditya.nair@email.com,+917576672427,Lucknow,West Bengal,India,2024-01-20,Gold
+CUST00854,Shreya Sharma,aditya.menon@email.com,+917983590548,Pune,Telangana,India,2024-10-21,Gold
+CUST00855,Gita Pandey,vihaan.nair@email.com,+919239704894,Chennai,Telangana,India,2023-09-06,Silver
+CUST00856,Vihaan Kumar,arjun.rao@email.com,+917877118282,Chennai,Karnataka,India,2024-03-28,Basic
+CUST00857,Sunil Mishra,neha.nair@email.com,+917705056722,Pune,Tamil Nadu,India,2023-06-27,Silver
+CUST00858,Priya Iyer,kavya.mishra@email.com,+919066612454,Ahmedabad,Delhi,India,2024-03-10,Gold
+CUST00859,Manoj Kumar,meera.chauhan@email.com,+919070177372,Lucknow,Maharashtra,India,2024-02-12,Platinum
+CUST00860,Diya Iyer,pooja.mukherjee@email.com,+918634021331,Jaipur,Rajasthan,India,2024-03-13,Gold
+CUST00861,Ishaan Rao,geeta.mukherjee@email.com,+917840592753,Hyderabad,Karnataka,India,2024-04-09,Silver
+CUST00862,Nisha Pandey,,+918785934003,Hyderabad,Gujarat,India,2023-01-05,Gold
+CUST00863,Krishna Pandey,radha.gupta@email.com,+919429270402,Mumbai,Karnataka,India,2024-01-29,Silver
+CUST00864,Vihaan Pandey,amit.menon@email.com,+918821239360,Hyderabad,Tamil Nadu,India,2024-03-22,Silver
+CUST00865,Shaurya Iyer,,+919600326244,Mumbai,Rajasthan,India,2024-05-04,Silver
+CUST00866,Sai Pandey,radha.patel@email.com,+918707966417,,Kerala,India,2023-09-18,Basic
+CUST00867,Pooja Menon,manoj.patel@email.com,+919290082204,Kolkata,Gujarat,India,2024-06-14,Gold
+CUST00868,Shaurya Iyer,sai.singh@email.com,+917899905381,Hyderabad,Gujarat,India,2024-02-26,Gold
+CUST00869,Sunita Tiwari,nisha.sharma@email.com,+919811147132,Pune,West Bengal,India,2023-01-07,Platinum
+CUST00870,Kavita Singh,diya.kumar@email.com,+918935573331,Bangalore,Kerala,India,2023-06-24,Silver
+CUST00871,Deepak Mukherjee,diya.reddy@email.com,+917468990879,Pune,Karnataka,India,2023-07-10,Basic
+CUST00872,Radha Nair,krishna.iyer@email.com,+919052552491,Mumbai,Rajasthan,India,2023-10-28,Basic
+CUST00873,Reyansh Reddy,aarav.banerjee@email.com,+919243409780,Mumbai,Maharashtra,India,2023-01-10,Platinum
+CUST00874,Gita Tiwari,riya.rao@email.com,+918445472104,Hyderabad,Telangana,India,2024-09-09,Gold
+CUST00875,Amit Joshi,sanjay.pandey@email.com,+917430258498,Mumbai,Maharashtra,India,2023-11-19,Platinum
+CUST00876,Riya Nair,ishaan.sharma@email.com,+918582394360,Jaipur,Rajasthan,India,2024-02-16,Platinum
+CUST00877,Vivaan Desai,priya.sharma@email.com,+917196513141,Hyderabad,Telangana,India,2024-06-11,Platinum
+CUST00878,Manoj Rao,suresh.mukherjee@email.com,+919827544495,Hyderabad,Delhi,India,2023-08-28,Platinum
+CUST00879,Aditya Kumar,shaurya.menon@email.com,+919138571816,Jaipur,Delhi,India,2023-10-28,Gold
+CUST00880,Meera Das,sunil.patel@email.com,+918034664545,Delhi,Tamil Nadu,India,2024-11-20,Silver
+CUST00881,Ananya Joshi,sai.singh@email.com,+918647076207,Mumbai,West Bengal,India,2023-06-24,Silver
+CUST00882,Sai Joshi,krishna.kumar@email.com,+917961240373,Ahmedabad,Kerala,India,2023-09-21,Basic
+CUST00883,Anjali Nair,vikram.das@email.com,+918112800039,Pune,Delhi,India,2024-10-21,Gold
+CUST00884,Sita Desai,rohit.banerjee@email.com,+917547253832,Delhi,Telangana,India,2023-03-31,Platinum
+CUST00885,Vikram Tiwari,pooja.verma@email.com,+918372856178,Chennai,Telangana,India,2024-08-13,Silver
+CUST00886,Rekha Chauhan,radha.nair@email.com,+918356892801,Mumbai,Karnataka,India,2024-06-16,Gold
+CUST00887,Aditya Mukherjee,sunil.kumar@email.com,+918374988068,Bangalore,West Bengal,India,2023-08-13,Basic
+CUST00888,Nisha Mishra,sita.rao@email.com,+918617951253,Chennai,Maharashtra,India,2023-10-08,Gold
+CUST00889,Diya Rao,neha.nair@email.com,+918682801964,Mumbai,West Bengal,India,2023-06-06,Silver
+CUST00890,Suresh Pandey,rohit.tiwari@email.com,+917308478368,Hyderabad,UP,India,2023-01-23,Gold
+CUST00891,Rahul Banerjee,priya.das@email.com,+917232457812,Bangalore,West Bengal,India,2023-10-17,Platinum
+CUST00892,Shaurya Reddy,ishaan.chauhan@email.com,+917936889011,Kolkata,Tamil Nadu,India,2024-11-01,Basic
+CUST00893,Vikram Tiwari,sita.singh@email.com,+919918195168,Bangalore,Karnataka,India,2024-01-06,Basic
+CUST00894,Kavita Joshi,meera.patel@email.com,+919548600919,Delhi,Gujarat,India,2023-04-09,Silver
+CUST00895,Nisha Mishra,kavya.verma@email.com,+919954869235,Pune,Kerala,India,2024-10-04,Silver
+CUST00896,Riya Chauhan,sai.chauhan@email.com,+918577640521,Pune,Maharashtra,India,2024-10-30,Basic
+CUST00897,Sita Banerjee,nisha.menon@email.com,+919059429798,Lucknow,West Bengal,India,2023-04-30,Basic
+CUST00898,Reyansh Joshi,meera.tiwari@email.com,+917272723132,Bangalore,UP,India,2024-08-30,Silver
+CUST00899,Sunita Rao,vivaan.pandey@email.com,+917274584412,Jaipur,UP,India,2024-02-20,Basic
+CUST00900,Aarav Das,krishna.patel@email.com,+918920850564,Bangalore,Telangana,India,2023-08-01,Basic
+CUST00901,Aditya Gupta,neha.patel@email.com,+917535655939,Kolkata,UP,India,2023-02-10,Gold
+CUST00902,Kavya Mishra,ananya.tiwari@email.com,+917198282570,Mumbai,UP,India,2024-01-08,Gold
+CUST00903,Sunita Desai,ishaan.banerjee@email.com,+919603489472,Hyderabad,UP,India,2024-11-05,Silver
+CUST00904,Pooja Reddy,aditya.nair@email.com,+917576418989,Bangalore,Kerala,India,2023-04-12,Silver
+CUST00905,Aisha Iyer,ishaan.mukherjee@email.com,+918639742550,Jaipur,Karnataka,India,2024-08-28,Platinum
+CUST00906,Rekha Reddy,aisha.tiwari@email.com,+917303044487,Bangalore,West Bengal,India,2024-04-12,Silver
+CUST00907,Rahul Tiwari,kavita.mukherjee@email.com,+918627543095,Bangalore,Maharashtra,India,2024-01-17,Silver
+CUST00908,Arjun Joshi,rekha.singh@email.com,+919749541399,Pune,Delhi,India,2023-03-21,Gold
+CUST00909,Vikram Nair,shaurya.nair@email.com,+918626213564,Delhi,Delhi,India,2023-12-08,Basic
+CUST00910,Reyansh Menon,pooja.banerjee@email.com,+918498514976,Ahmedabad,Kerala,India,2023-06-29,Gold
+CUST00911,Diya Desai,reyansh.verma@email.com,+919911179862,Pune,UP,India,2024-07-18,Platinum
+CUST00912,Ishaan Kumar,aisha.sharma@email.com,+918626936469,Bangalore,Kerala,India,2024-05-03,Gold
+CUST00913,Sunil Patel,sanjay.nair@email.com,+918885318861,Pune,Telangana,India,2023-02-24,Platinum
+CUST00914,Pooja Gupta,manoj.menon@email.com,+918312806155,Chennai,Gujarat,India,2024-05-29,Gold
+CUST00915,Sita Verma,arjun.nair@email.com,+917363290329,Bangalore,West Bengal,India,2023-04-03,Platinum
+CUST00916,Meera Rao,manoj.menon@email.com,+919211957500,Bangalore,UP,India,2023-01-11,Basic
+CUST00917,Manoj Das,,+918482024096,Mumbai,Tamil Nadu,India,2024-02-20,Basic
+CUST00918,Arjun Desai,ananya.menon@email.com,+917572599890,Bangalore,UP,India,2024-09-13,Gold
+CUST00919,Rohit Nair,vikram.patel@email.com,+919315501123,Delhi,Delhi,India,2023-02-22,Gold
+CUST00920,Sita Pandey,aisha.reddy@email.com,+917933997304,,West Bengal,India,2023-11-03,Basic
+CUST00921,Sunil Joshi,nisha.verma@email.com,+918281406275,Lucknow,Telangana,India,2024-04-19,Basic
+CUST00922,Manoj Rao,diya.pandey@email.com,+917848446906,Delhi,Delhi,India,2023-01-06,Silver
+CUST00923,Anjali Rao,nisha.sharma@email.com,+918698053239,Kolkata,Telangana,India,2024-02-25,Gold
+CUST00924,Deepak Chauhan,diya.das@email.com,+917695073055,Delhi,Karnataka,India,2024-01-09,Gold
+CUST00925,Krishna Reddy,,+918223635199,Chennai,Maharashtra,India,2024-03-20,Silver
+CUST00926,Meera Iyer,rohit.verma@email.com,+917510209087,Chennai,Gujarat,India,2024-02-09,Platinum
+CUST00927,Kavita Pandey,ishaan.joshi@email.com,+917564434600,Pune,Delhi,India,2024-07-17,Basic
+CUST00928,Kavya Verma,amit.menon@email.com,+919913320633,,Telangana,India,2023-01-22,Platinum
+CUST00929,Sai Tiwari,manoj.rao@email.com,+918064066533,Ahmedabad,Kerala,India,2024-09-03,Silver
+CUST00930,Manoj Reddy,riya.singh@email.com,+919035354181,Chennai,Delhi,India,2024-06-07,Silver
+CUST00931,Suresh Verma,radha.kumar@email.com,+918176226755,Bangalore,Tamil Nadu,India,2023-07-13,Silver
+CUST00932,Vikram Tiwari,,+919254734062,Mumbai,West Bengal,India,2024-03-12,Silver
+CUST00933,Pooja Singh,meera.verma@email.com,+918156403157,Mumbai,Telangana,India,2023-08-16,Gold
+CUST00934,Aditya Sharma,kavya.joshi@email.com,+917223899362,Bangalore,Telangana,India,2023-12-26,Silver
+CUST00935,Nisha Desai,gita.singh@email.com,+918435730895,Kolkata,West Bengal,India,2023-10-20,Basic
+CUST00936,Radha Menon,geeta.kumar@email.com,+919597226033,Hyderabad,Telangana,India,2023-04-10,Silver
+CUST00937,Ishaan Mukherjee,radha.pandey@email.com,+917516917996,Delhi,Maharashtra,India,2024-10-27,Silver
+CUST00938,Rohit Mishra,reyansh.gupta@email.com,+919036667107,Lucknow,Tamil Nadu,India,2023-07-17,Silver
+CUST00939,Amit Desai,rajesh.das@email.com,+918926216462,Jaipur,Delhi,India,2023-02-14,Platinum
+CUST00940,Gita Iyer,sunita.menon@email.com,+919992330460,Bangalore,Karnataka,India,2023-03-11,Gold
+CUST00941,Nisha Das,vihaan.reddy@email.com,+919205412851,Pune,Delhi,India,2023-02-16,Silver
+CUST00942,Gita Iyer,vikram.das@email.com,+917888734391,Pune,Karnataka,India,2024-03-24,Basic
+CUST00943,Sunil Menon,radha.sharma@email.com,+919255172250,Jaipur,West Bengal,India,2023-06-13,Gold
+CUST00944,Aditya Das,riya.das@email.com,+918023133250,Chennai,West Bengal,India,2023-08-14,Basic
+CUST00945,Kavya Reddy,riya.kumar@email.com,+919296067730,Mumbai,Delhi,India,2024-10-16,Basic
+CUST00946,Aisha Kumar,gita.desai@email.com,+918753819309,Jaipur,Kerala,India,2024-10-26,Gold
+CUST00947,Diya Iyer,aarav.desai@email.com,+917067166793,Kolkata,UP,India,2023-11-29,Basic
+CUST00948,Anjali Joshi,aisha.mukherjee@email.com,+918154459322,Ahmedabad,Tamil Nadu,India,2024-01-27,Platinum
+CUST00949,Sai Rao,manoj.desai@email.com,+917779594723,Ahmedabad,Rajasthan,India,2023-06-09,Silver
+CUST00950,Pooja Patel,nisha.patel@email.com,+917763362851,Mumbai,Gujarat,India,2023-06-30,Silver
+CUST00951,Reyansh Menon,manoj.nair@email.com,+917589661620,Pune,Maharashtra,India,2023-03-13,Basic
+CUST00952,Ishaan Nair,krishna.sharma@email.com,+917359040131,Mumbai,West Bengal,India,2024-01-22,Silver
+CUST00953,Sai Reddy,aarav.singh@email.com,+917597988721,Hyderabad,Rajasthan,India,2024-10-04,Platinum
+CUST00954,Riya Das,meera.kumar@email.com,+917528605335,Jaipur,Maharashtra,India,2023-06-17,Basic
+CUST00955,Shaurya Sharma,reyansh.menon@email.com,+917963415929,Pune,Maharashtra,India,2023-04-16,Silver
+CUST00956,Krishna Rao,amit.mishra@email.com,+917728250595,Pune,Delhi,India,2024-03-13,Silver
+CUST00957,Krishna Desai,shreya.desai@email.com,+917364231717,Hyderabad,Maharashtra,India,2023-04-15,Silver
+CUST00958,Shaurya Mishra,rohit.mukherjee@email.com,+919683316346,Pune,West Bengal,India,2023-07-02,Gold
+CUST00959,Aarav Kumar,nisha.desai@email.com,+919816872014,Delhi,Karnataka,India,2023-04-17,Gold
+CUST00960,Riya Kumar,meera.gupta@email.com,+917388466980,Pune,Telangana,India,2023-06-01,Silver
+CUST00961,Rajesh Mukherjee,amit.joshi@email.com,+919734194154,Ahmedabad,Telangana,India,2023-07-06,Silver
+CUST00962,Rekha Rao,vikram.tiwari@email.com,+919286960285,Jaipur,UP,India,2024-10-31,Silver
+CUST00963,Sai Nair,rajesh.menon@email.com,+918553530199,Chennai,Maharashtra,India,2024-01-29,Silver
+CUST00964,Amit Desai,meera.kumar@email.com,+917598500581,Mumbai,West Bengal,India,2023-01-18,Platinum
+CUST00965,Vihaan Kumar,geeta.tiwari@email.com,+917503523941,Chennai,Karnataka,India,2023-05-28,Platinum
+CUST00966,Radha Gupta,manoj.desai@email.com,+919047954518,Delhi,Kerala,India,2023-01-27,Silver
+CUST00967,Sita Tiwari,shaurya.gupta@email.com,+917643030571,Mumbai,Karnataka,India,2023-01-31,Platinum
+CUST00968,Deepak Sharma,pooja.rao@email.com,+918231663777,Hyderabad,Delhi,India,2023-05-24,Silver
+CUST00969,Ananya Sharma,aditya.mukherjee@email.com,+918702485026,Jaipur,Gujarat,India,2023-03-03,Platinum
+CUST00970,Manoj Patel,aisha.banerjee@email.com,+918167490678,Chennai,Delhi,India,2024-07-21,Platinum
+CUST00971,Diya Das,suresh.mukherjee@email.com,+919598813438,Pune,Delhi,India,2023-05-09,Platinum
+CUST00972,Manoj Reddy,suresh.pandey@email.com,+918159295684,Hyderabad,Delhi,India,2024-05-03,Basic
+CUST00973,Rekha Singh,rohit.sharma@email.com,+917280543685,Bangalore,Tamil Nadu,India,2023-03-21,Basic
+CUST00974,Sita Banerjee,priya.verma@email.com,+917192734662,Delhi,Kerala,India,2023-11-13,Platinum
+CUST00975,Aarav Desai,,+918212908107,Kolkata,Gujarat,India,2023-02-16,Silver
+CUST00976,Rohit Tiwari,amit.kumar@email.com,+919162852783,Delhi,Delhi,India,2023-11-19,Silver
+CUST00977,Shreya Patel,vikram.rao@email.com,+917650849945,Mumbai,Rajasthan,India,2023-01-25,Basic
+CUST00978,Ananya Menon,anjali.reddy@email.com,+919217495034,Bangalore,Kerala,India,2024-10-02,Gold
+CUST00979,Aditya Pandey,rohit.mishra@email.com,+918026972351,Pune,Tamil Nadu,India,2024-04-03,Basic
+CUST00980,Pooja Das,nisha.singh@email.com,+917374382356,Bangalore,Rajasthan,India,2023-06-06,Basic
+CUST00981,Sanjay Desai,shreya.patel@email.com,+917383236692,Lucknow,Delhi,India,2024-04-10,Silver
+CUST00982,Ishaan Singh,meera.iyer@email.com,+919442691577,Ahmedabad,Rajasthan,India,2024-04-16,Basic
+CUST00983,Deepak Desai,suresh.tiwari@email.com,+919201081617,Bangalore,Kerala,India,2024-01-08,Gold
+CUST00984,Lata Verma,rajesh.menon@email.com,+918051480085,Mumbai,UP,India,2024-01-18,Basic
+CUST00985,Arjun Nair,shreya.pandey@email.com,+918667405065,Pune,Rajasthan,India,2023-06-08,Basic
+CUST00986,Reyansh Pandey,rekha.chauhan@email.com,+918860212181,Bangalore,Tamil Nadu,India,2023-12-24,Platinum
+CUST00987,Krishna Iyer,rohit.mukherjee@email.com,+918952400435,Ahmedabad,Maharashtra,India,2023-12-03,Silver
+CUST00988,Vikram Verma,neha.joshi@email.com,+918552599579,Lucknow,Gujarat,India,2024-04-26,Platinum
+CUST00989,Sai Kumar,vivaan.tiwari@email.com,+917297465366,Bangalore,West Bengal,India,2023-08-07,Platinum
+CUST00990,Diya Verma,deepak.tiwari@email.com,+917397032174,Kolkata,Gujarat,India,2023-03-25,Gold
+CUST00991,Ananya Tiwari,amit.tiwari@email.com,+918523392144,Jaipur,Kerala,India,2023-11-01,Platinum
+CUST00992,Lata Kumar,gita.reddy@email.com,+918390420814,Lucknow,Telangana,India,2023-01-11,Basic
+CUST00993,Rajesh Iyer,shaurya.rao@email.com,+919236353823,Delhi,Maharashtra,India,2023-06-04,Platinum
+CUST00994,Rajesh Das,radha.singh@email.com,+917713398481,Chennai,Kerala,India,2023-05-09,Platinum
+CUST00995,Sanjay Sharma,priya.banerjee@email.com,+918296841600,Hyderabad,West Bengal,India,2023-08-10,Basic
+CUST00996,Rekha Tiwari,sunil.tiwari@email.com,+919246997276,Hyderabad,Telangana,India,2024-05-26,Basic
+CUST00997,Rekha Tiwari,sanjay.patel@email.com,+918638802005,Bangalore,West Bengal,India,2023-06-30,Platinum
+CUST00998,Sai Sharma,lata.singh@email.com,+919646818113,Delhi,Gujarat,India,2024-10-11,Basic
+CUST00999,Kavita Banerjee,lata.das@email.com,+917140168546,Ahmedabad,West Bengal,India,2024-05-23,Platinum
+CUST01000,Meera Singh,sunil.das@email.com,+918505874284,Chennai,Rajasthan,India,2023-08-05,Platinum

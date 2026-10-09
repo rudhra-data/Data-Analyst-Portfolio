@@ -1,0 +1,301 @@
+product_id,product_name,category,subcategory,cost_price,selling_price,seller_id
+PROD00001,Smartphone Variant 1,Electronics,Smartphone,4549.17,9272.65,SELL026
+PROD00002,Smartphone Variant 2,Electronics,Smartphone,137.27,231.58,SELL019
+PROD00003,Smartphone Variant 3,Electronics,Smartphone,1411.28,2902.0,SELL027
+PROD00004,Laptop Variant 1,Electronics,Laptop,3399.17,4097.38,SELL003
+PROD00005,Laptop Variant 2,Electronics,Laptop,176.1,246.43,SELL034
+PROD00006,Laptop Variant 3,Electronics,Laptop,4118.17,8153.69,SELL037
+PROD00007,Tablet Variant 1,Electronics,Tablet,4964.86,7518.69,SELL013
+PROD00008,Tablet Variant 2,Electronics,Tablet,3119.71,5338.8,SELL037
+PROD00009,Tablet Variant 3,Electronics,Tablet,2202.6,5332.96,SELL047
+PROD00010,Headphones Variant 1,Electronics,Headphones,951.21,2259.53,SELL028
+PROD00011,Headphones Variant 2,Electronics,Headphones,1231.75,2615.05,SELL008
+PROD00012,Headphones Variant 3,Electronics,Headphones,3194.06,7089.43,SELL041
+PROD00013,Smartwatch Variant 1,Electronics,Smartwatch,4591.66,10508.19,SELL021
+PROD00014,Smartwatch Variant 2,Electronics,Smartwatch,1098.44,1451.31,SELL041
+PROD00015,Smartwatch Variant 3,Electronics,Smartwatch,3873.16,5418.41,SELL035
+PROD00016,Camera Variant 1,Electronics,Camera,4610.91,6005.27,SELL048
+PROD00017,Camera Variant 2,Electronics,Camera,3697.43,9163.85,SELL050
+PROD00018,Camera Variant 3,Electronics,Camera,1854.79,2803.77,SELL020
+PROD00019,Speaker Variant 1,Electronics,Speaker,1049.76,2406.67,SELL025
+PROD00020,Speaker Variant 2,Electronics,Speaker,3874.92,7970.85,SELL010
+PROD00021,Speaker Variant 3,Electronics,Speaker,3174.45,6443.82,SELL007
+PROD00022,Monitor Variant 1,Electronics,Monitor,643.56,1547.99,SELL010
+PROD00023,Monitor Variant 2,Electronics,Monitor,1484.07,3506.84,SELL032
+PROD00024,Monitor Variant 3,Electronics,Monitor,4238.66,10115.71,SELL007
+PROD00025,Keyboard Variant 1,Electronics,Keyboard,2506.08,3078.83,SELL041
+PROD00026,Keyboard Variant 2,Electronics,Keyboard,473.93,992.19,SELL021
+PROD00027,Keyboard Variant 3,Electronics,Keyboard,3204.4,5723.51,SELL020
+PROD00028,Mouse Variant 1,Electronics,Mouse,149.69,214.4,SELL039
+PROD00029,Mouse Variant 2,Electronics,Mouse,4288.56,5799.72,SELL023
+PROD00030,Mouse Variant 3,Electronics,Mouse,2471.16,4937.89,SELL011
+PROD00031,T-Shirt Variant 1,Fashion,T-Shirt,2656.57,4066.81,SELL039
+PROD00032,T-Shirt Variant 2,Fashion,T-Shirt,244.82,301.12,SELL010
+PROD00033,T-Shirt Variant 3,Fashion,T-Shirt,1159.9,1942.09,SELL002
+PROD00034,Jeans Variant 1,Fashion,Jeans,1704.94,2533.01,SELL009
+PROD00035,Jeans Variant 2,Fashion,Jeans,1411.19,2576.9,SELL023
+PROD00036,Jeans Variant 3,Fashion,Jeans,3569.61,7308.78,SELL032
+PROD00037,Jacket Variant 1,Fashion,Jacket,2236.7,5435.74,SELL017
+PROD00038,Jacket Variant 2,Fashion,Jacket,947.5,1983.28,SELL018
+PROD00039,Jacket Variant 3,Fashion,Jacket,4813.17,6419.63,SELL038
+PROD00040,Sneakers Variant 1,Fashion,Sneakers,1626.77,3631.49,SELL032
+PROD00041,Sneakers Variant 2,Fashion,Sneakers,2224.01,3958.75,SELL018
+PROD00042,Sneakers Variant 3,Fashion,Sneakers,4097.87,8235.83,SELL028
+PROD00043,Watch Variant 1,Fashion,Watch,1078.63,1789.22,SELL005
+PROD00044,Watch Variant 2,Fashion,Watch,2302.08,5424.36,SELL017
+PROD00045,Watch Variant 3,Fashion,Watch,2975.66,4706.05,SELL042
+PROD00046,Sunglasses Variant 1,Fashion,Sunglasses,4756.85,8988.77,SELL008
+PROD00047,Sunglasses Variant 2,Fashion,Sunglasses,981.53,1589.57,SELL023
+PROD00048,Sunglasses Variant 3,Fashion,Sunglasses,1302.06,1926.71,SELL010
+PROD00049,Backpack Variant 1,Fashion,Backpack,3919.62,5326.74,SELL001
+PROD00050,Backpack Variant 2,Fashion,Backpack,3612.33,5338.68,SELL021
+PROD00051,Backpack Variant 3,Fashion,Backpack,4503.85,8693.03,SELL039
+PROD00052,Belt Variant 1,Fashion,Belt,1139.66,1689.78,SELL046
+PROD00053,Belt Variant 2,Fashion,Belt,3078.73,7229.99,SELL005
+PROD00054,Belt Variant 3,Fashion,Belt,2912.35,5941.63,SELL028
+PROD00055,Hat Variant 1,Fashion,Hat,1657.14,2678.2,SELL032
+PROD00056,Hat Variant 2,Fashion,Hat,2543.39,6326.27,SELL008
+PROD00057,Hat Variant 3,Fashion,Hat,2318.65,4595.24,SELL016
+PROD00058,Scarf Variant 1,Fashion,Scarf,2924.43,4592.96,SELL037
+PROD00059,Scarf Variant 2,Fashion,Scarf,4940.98,11784.91,SELL026
+PROD00060,Scarf Variant 3,Fashion,Scarf,281.34,532.72,SELL022
+PROD00061,Blender Variant 1,Home & Kitchen,Blender,3259.4,4205.57,SELL027
+PROD00062,Blender Variant 2,Home & Kitchen,Blender,3643.94,5673.89,SELL026
+PROD00063,Blender Variant 3,Home & Kitchen,Blender,490.86,1083.33,SELL004
+PROD00064,Mixer Variant 1,Home & Kitchen,Mixer,2027.3,4268.27,SELL042
+PROD00065,Mixer Variant 2,Home & Kitchen,Mixer,4839.05,6570.64,SELL040
+PROD00066,Mixer Variant 3,Home & Kitchen,Mixer,603.44,899.86,SELL009
+PROD00067,Cookware Set Variant 1,Home & Kitchen,Cookware Set,615.16,996.38,SELL028
+PROD00068,Cookware Set Variant 2,Home & Kitchen,Cookware Set,1209.07,1589.23,SELL024
+PROD00069,Cookware Set Variant 3,Home & Kitchen,Cookware Set,4099.12,6148.68,SELL045
+PROD00070,Knife Set Variant 1,Home & Kitchen,Knife Set,4353.27,6693.56,SELL008
+PROD00071,Knife Set Variant 2,Home & Kitchen,Knife Set,335.22,534.87,SELL045
+PROD00072,Knife Set Variant 3,Home & Kitchen,Knife Set,3102.48,6999.91,SELL011
+PROD00073,Coffee Maker Variant 1,Home & Kitchen,Coffee Maker,4631.81,9071.35,SELL021
+PROD00074,Coffee Maker Variant 2,Home & Kitchen,Coffee Maker,4323.29,9420.21,SELL027
+PROD00075,Coffee Maker Variant 3,Home & Kitchen,Coffee Maker,3220.83,6662.95,SELL016
+PROD00076,Toaster Variant 1,Home & Kitchen,Toaster,2931.64,6038.15,SELL021
+PROD00077,Toaster Variant 2,Home & Kitchen,Toaster,3885.96,7101.66,SELL050
+PROD00078,Toaster Variant 3,Home & Kitchen,Toaster,1551.55,2028.86,SELL016
+PROD00079,Vacuum Cleaner Variant 1,Home & Kitchen,Vacuum Cleaner,3331.46,7182.12,SELL005
+PROD00080,Vacuum Cleaner Variant 2,Home & Kitchen,Vacuum Cleaner,468.21,862.91,SELL043
+PROD00081,Vacuum Cleaner Variant 3,Home & Kitchen,Vacuum Cleaner,1159.06,2624.19,SELL007
+PROD00082,Iron Variant 1,Home & Kitchen,Iron,1768.21,3992.96,SELL033
+PROD00083,Iron Variant 2,Home & Kitchen,Iron,4306.45,9425.24,SELL030
+PROD00084,Iron Variant 3,Home & Kitchen,Iron,3310.92,7622.23,SELL009
+PROD00085,Fan Variant 1,Home & Kitchen,Fan,1172.05,1960.53,SELL040
+PROD00086,Fan Variant 2,Home & Kitchen,Fan,2615.97,5791.83,SELL018
+PROD00087,Fan Variant 3,Home & Kitchen,Fan,2173.16,4546.57,SELL037
+PROD00088,Light Variant 1,Home & Kitchen,Light,3277.08,4559.98,SELL048
+PROD00089,Light Variant 2,Home & Kitchen,Light,639.98,781.78,SELL018
+PROD00090,Light Variant 3,Home & Kitchen,Light,240.07,494.65,SELL017
+PROD00091,Face Wash Variant 1,Beauty,Face Wash,679.8,1302.09,SELL014
+PROD00092,Face Wash Variant 2,Beauty,Face Wash,838.04,1552.76,SELL004
+PROD00093,Face Wash Variant 3,Beauty,Face Wash,2262.57,3802.74,SELL025
+PROD00094,Moisturizer Variant 1,Beauty,Moisturizer,3686.81,6449.58,SELL026
+PROD00095,Moisturizer Variant 2,Beauty,Moisturizer,965.56,1505.02,SELL034
+PROD00096,Moisturizer Variant 3,Beauty,Moisturizer,2224.47,4639.15,SELL008
+PROD00097,Sunscreen Variant 1,Beauty,Sunscreen,1175.94,1492.36,SELL018
+PROD00098,Sunscreen Variant 2,Beauty,Sunscreen,1269.96,2402.47,SELL040
+PROD00099,Sunscreen Variant 3,Beauty,Sunscreen,3527.61,6088.4,SELL015
+PROD00100,Shampoo Variant 1,Beauty,Shampoo,3696.23,8661.69,SELL014
+PROD00101,Shampoo Variant 2,Beauty,Shampoo,938.04,1373.9,SELL046
+PROD00102,Shampoo Variant 3,Beauty,Shampoo,3021.94,6509.4,SELL033
+PROD00103,Conditioner Variant 1,Beauty,Conditioner,4548.13,9136.07,SELL045
+PROD00104,Conditioner Variant 2,Beauty,Conditioner,1269.24,2043.03,SELL012
+PROD00105,Conditioner Variant 3,Beauty,Conditioner,1727.56,3095.41,SELL043
+PROD00106,Perfume Variant 1,Beauty,Perfume,2425.54,3963.99,SELL017
+PROD00107,Perfume Variant 2,Beauty,Perfume,4418.16,6282.37,SELL001
+PROD00108,Perfume Variant 3,Beauty,Perfume,3010.63,7407.37,SELL032
+PROD00109,Lipstick Variant 1,Beauty,Lipstick,4378.77,7944.57,SELL002
+PROD00110,Lipstick Variant 2,Beauty,Lipstick,2879.61,7163.14,SELL034
+PROD00111,Lipstick Variant 3,Beauty,Lipstick,2565.42,5596.44,SELL007
+PROD00112,Foundation Variant 1,Beauty,Foundation,1592.55,3435.2,SELL048
+PROD00113,Foundation Variant 2,Beauty,Foundation,1818.83,3472.93,SELL017
+PROD00114,Foundation Variant 3,Beauty,Foundation,1885.02,2295.26,SELL046
+PROD00115,Serum Variant 1,Beauty,Serum,1735.32,3250.57,SELL039
+PROD00116,Serum Variant 2,Beauty,Serum,2473.34,3835.95,SELL041
+PROD00117,Serum Variant 3,Beauty,Serum,201.56,498.3,SELL043
+PROD00118,Cream Variant 1,Beauty,Cream,4971.03,8273.55,SELL037
+PROD00119,Cream Variant 2,Beauty,Cream,3730.96,9197.85,SELL048
+PROD00120,Cream Variant 3,Beauty,Cream,537.44,1288.16,SELL007
+PROD00121,Cricket Bat Variant 1,Sports,Cricket Bat,4830.72,11305.27,SELL029
+PROD00122,Cricket Bat Variant 2,Sports,Cricket Bat,4937.93,11549.43,SELL044
+PROD00123,Cricket Bat Variant 3,Sports,Cricket Bat,1809.34,2950.23,SELL018
+PROD00124,Football Variant 1,Sports,Football,1615.68,2025.14,SELL022
+PROD00125,Football Variant 2,Sports,Football,4187.44,5694.29,SELL037
+PROD00126,Football Variant 3,Sports,Football,4843.95,10802.22,SELL001
+PROD00127,Tennis Racket Variant 1,Sports,Tennis Racket,2544.74,5321.52,SELL010
+PROD00128,Tennis Racket Variant 2,Sports,Tennis Racket,2663.61,4199.76,SELL011
+PROD00129,Tennis Racket Variant 3,Sports,Tennis Racket,1587.86,2500.46,SELL001
+PROD00130,Yoga Mat Variant 1,Sports,Yoga Mat,2323.91,3445.25,SELL008
+PROD00131,Yoga Mat Variant 2,Sports,Yoga Mat,360.65,576.16,SELL043
+PROD00132,Yoga Mat Variant 3,Sports,Yoga Mat,4187.14,5296.2,SELL019
+PROD00133,Dumbbells Variant 1,Sports,Dumbbells,3947.79,7313.64,SELL036
+PROD00134,Dumbbells Variant 2,Sports,Dumbbells,859.68,1127.73,SELL047
+PROD00135,Dumbbells Variant 3,Sports,Dumbbells,1063.96,2086.2,SELL015
+PROD00136,Resistance Bands Variant 1,Sports,Resistance Bands,257.47,621.23,SELL044
+PROD00137,Resistance Bands Variant 2,Sports,Resistance Bands,3221.52,5635.51,SELL007
+PROD00138,Resistance Bands Variant 3,Sports,Resistance Bands,4475.86,10725.29,SELL012
+PROD00139,Running Shoes Variant 1,Sports,Running Shoes,2863.15,5962.8,SELL038
+PROD00140,Running Shoes Variant 2,Sports,Running Shoes,781.96,1718.72,SELL027
+PROD00141,Running Shoes Variant 3,Sports,Running Shoes,2815.99,4481.31,SELL037
+PROD00142,Bottle Variant 1,Sports,Bottle,4642.88,8354.87,SELL028
+PROD00143,Bottle Variant 2,Sports,Bottle,570.61,1075.34,SELL033
+PROD00144,Bottle Variant 3,Sports,Bottle,4680.91,9953.38,SELL028
+PROD00145,Bag Variant 1,Sports,Bag,2386.11,5845.69,SELL036
+PROD00146,Bag Variant 2,Sports,Bag,229.47,504.1,SELL009
+PROD00147,Bag Variant 3,Sports,Bag,3114.52,4961.76,SELL033
+PROD00148,Gloves Variant 1,Sports,Gloves,1928.24,3870.28,SELL019
+PROD00149,Gloves Variant 2,Sports,Gloves,362.33,832.87,SELL043
+PROD00150,Gloves Variant 3,Sports,Gloves,129.17,290.6,SELL030
+PROD00151,Fiction Variant 1,Books,Fiction,4212.07,5518.05,SELL042
+PROD00152,Fiction Variant 2,Books,Fiction,624.54,1231.99,SELL037
+PROD00153,Fiction Variant 3,Books,Fiction,2459.19,4010.2,SELL048
+PROD00154,Non-Fiction Variant 1,Books,Non-Fiction,2964.63,5526.27,SELL045
+PROD00155,Non-Fiction Variant 2,Books,Non-Fiction,1104.82,1532.82,SELL032
+PROD00156,Non-Fiction Variant 3,Books,Non-Fiction,768.37,1816.09,SELL010
+PROD00157,Self-Help Variant 1,Books,Self-Help,1574.37,2525.54,SELL001
+PROD00158,Self-Help Variant 2,Books,Self-Help,4047.52,8138.6,SELL005
+PROD00159,Self-Help Variant 3,Books,Self-Help,100.17,198.83,SELL007
+PROD00160,Textbook Variant 1,Books,Textbook,1311.31,1750.19,SELL033
+PROD00161,Textbook Variant 2,Books,Textbook,2274.7,2894.21,SELL026
+PROD00162,Textbook Variant 3,Books,Textbook,2470.23,3555.3,SELL035
+PROD00163,Comics Variant 1,Books,Comics,1375.33,2745.97,SELL043
+PROD00164,Comics Variant 2,Books,Comics,3124.08,5504.82,SELL012
+PROD00165,Comics Variant 3,Books,Comics,794.26,1721.94,SELL033
+PROD00166,Biography Variant 1,Books,Biography,3734.16,7134.8,SELL019
+PROD00167,Biography Variant 2,Books,Biography,1518.3,2019.38,SELL024
+PROD00168,Biography Variant 3,Books,Biography,3371.73,5760.76,SELL007
+PROD00169,Science Variant 1,Books,Science,2373.42,5358.09,SELL019
+PROD00170,Science Variant 2,Books,Science,2339.7,3509.5499999999997,SELL020
+PROD00171,Science Variant 3,Books,Science,267.01,546.18,SELL029
+PROD00172,History Variant 1,Books,History,308.9,734.93,SELL030
+PROD00173,History Variant 2,Books,History,4423.88,6635.82,SELL011
+PROD00174,History Variant 3,Books,History,1852.96,4285.14,SELL023
+PROD00175,Romance Variant 1,Books,Romance,4522.5,8513.93,SELL012
+PROD00176,Romance Variant 2,Books,Romance,3314.0,5492.71,SELL022
+PROD00177,Romance Variant 3,Books,Romance,2351.46,5446.6,SELL049
+PROD00178,Thriller Variant 1,Books,Thriller,3326.38,7985.04,SELL042
+PROD00179,Thriller Variant 2,Books,Thriller,2470.35,6055.62,SELL012
+PROD00180,Thriller Variant 3,Books,Thriller,2922.59,7030.69,SELL034
+PROD00181,Rice Variant 1,Grocery,Rice,1370.21,2887.17,SELL038
+PROD00182,Rice Variant 2,Grocery,Rice,1805.67,3616.25,SELL003
+PROD00183,Rice Variant 3,Grocery,Rice,244.66,526.69,SELL043
+PROD00184,Wheat Variant 1,Grocery,Wheat,620.48,1498.15,SELL049
+PROD00185,Wheat Variant 2,Grocery,Wheat,1234.52,2719.98,SELL016
+PROD00186,Wheat Variant 3,Grocery,Wheat,616.62,1445.96,SELL025
+PROD00187,Oil Variant 1,Grocery,Oil,3803.49,6641.17,SELL040
+PROD00188,Oil Variant 2,Grocery,Oil,1327.37,1657.41,SELL029
+PROD00189,Oil Variant 3,Grocery,Oil,3840.42,7636.65,SELL012
+PROD00190,Sugar Variant 1,Grocery,Sugar,1673.68,3528.69,SELL041
+PROD00191,Sugar Variant 2,Grocery,Sugar,2911.52,4249.81,SELL029
+PROD00192,Sugar Variant 3,Grocery,Sugar,3426.36,5116.05,SELL028
+PROD00193,Salt Variant 1,Grocery,Salt,4087.8,9202.76,SELL038
+PROD00194,Salt Variant 2,Grocery,Salt,218.79,535.55,SELL003
+PROD00195,Salt Variant 3,Grocery,Salt,4069.04,9608.14,SELL027
+PROD00196,Spices Variant 1,Grocery,Spices,2884.65,6703.46,SELL044
+PROD00197,Spices Variant 2,Grocery,Spices,3676.89,8766.75,SELL032
+PROD00198,Spices Variant 3,Grocery,Spices,1031.67,1516.26,SELL033
+PROD00199,Tea Variant 1,Grocery,Tea,1825.32,3657.98,SELL009
+PROD00200,Tea Variant 2,Grocery,Tea,4027.82,7131.42,SELL005
+PROD00201,Tea Variant 3,Grocery,Tea,2888.85,3944.29,SELL007
+PROD00202,Coffee Variant 1,Grocery,Coffee,677.84,1016.59,SELL022
+PROD00203,Coffee Variant 2,Grocery,Coffee,210.46,477.27,SELL017
+PROD00204,Coffee Variant 3,Grocery,Coffee,2013.09,3352.35,SELL011
+PROD00205,Snacks Variant 1,Grocery,Snacks,4843.76,6283.38,SELL034
+PROD00206,Snacks Variant 2,Grocery,Snacks,4665.86,8632.13,SELL004
+PROD00207,Snacks Variant 3,Grocery,Snacks,2775.11,6547.46,SELL017
+PROD00208,Biscuits Variant 1,Grocery,Biscuits,3300.84,4099.5,SELL013
+PROD00209,Biscuits Variant 2,Grocery,Biscuits,1739.25,3816.19,SELL036
+PROD00210,Biscuits Variant 3,Grocery,Biscuits,4102.14,6680.3,SELL004
+PROD00211,Vitamins Variant 1,Health,Vitamins,1254.52,1624.33,SELL040
+PROD00212,Vitamins Variant 2,Health,Vitamins,3545.15,7782.48,SELL005
+PROD00213,Vitamins Variant 3,Health,Vitamins,4754.55,9402.56,SELL006
+PROD00214,Protein Powder Variant 1,Health,Protein Powder,4448.84,8107.58,SELL047
+PROD00215,Protein Powder Variant 2,Health,Protein Powder,304.53,379.53,SELL042
+PROD00216,Protein Powder Variant 3,Health,Protein Powder,1816.26,3307.17,SELL015
+PROD00217,Bandages Variant 1,Health,Bandages,205.07,260.84,SELL013
+PROD00218,Bandages Variant 2,Health,Bandages,2717.51,6300.23,SELL048
+PROD00219,Bandages Variant 3,Health,Bandages,188.66,344.65,SELL025
+PROD00220,Thermometer Variant 1,Health,Thermometer,3507.66,6168.69,SELL009
+PROD00221,Thermometer Variant 2,Health,Thermometer,666.36,901.85,SELL024
+PROD00222,Thermometer Variant 3,Health,Thermometer,1823.77,3002.04,SELL016
+PROD00223,BP Monitor Variant 1,Health,BP Monitor,1236.96,2430.88,SELL048
+PROD00224,BP Monitor Variant 2,Health,BP Monitor,3787.59,8522.29,SELL003
+PROD00225,BP Monitor Variant 3,Health,BP Monitor,4955.6,6042.7,SELL004
+PROD00226,Pulse Oximeter Variant 1,Health,Pulse Oximeter,475.4,648.79,SELL003
+PROD00227,Pulse Oximeter Variant 2,Health,Pulse Oximeter,1639.22,3250.8,SELL019
+PROD00228,Pulse Oximeter Variant 3,Health,Pulse Oximeter,735.61,1263.16,SELL043
+PROD00229,First Aid Kit Variant 1,Health,First Aid Kit,476.34,726.54,SELL032
+PROD00230,First Aid Kit Variant 2,Health,First Aid Kit,3555.75,8026.94,SELL015
+PROD00231,First Aid Kit Variant 3,Health,First Aid Kit,2273.36,3622.68,SELL036
+PROD00232,Masks Variant 1,Health,Masks,1534.15,3144.6,SELL018
+PROD00233,Masks Variant 2,Health,Masks,1662.41,3164.97,SELL023
+PROD00234,Masks Variant 3,Health,Masks,4512.08,9552.76,SELL018
+PROD00235,Sanitizer Variant 1,Health,Sanitizer,484.39,1155.59,SELL034
+PROD00236,Sanitizer Variant 2,Health,Sanitizer,1229.63,2661.51,SELL024
+PROD00237,Sanitizer Variant 3,Health,Sanitizer,3652.06,8123.36,SELL016
+PROD00238,Gloves Variant 1,Health,Gloves,3521.88,7201.82,SELL008
+PROD00239,Gloves Variant 2,Health,Gloves,204.32,467.33,SELL038
+PROD00240,Gloves Variant 3,Health,Gloves,1982.47,4510.78,SELL018
+PROD00241,Board Game Variant 1,Toys,Board Game,4287.41,6431.115,SELL025
+PROD00242,Board Game Variant 2,Toys,Board Game,1984.85,2496.43,SELL012
+PROD00243,Board Game Variant 3,Toys,Board Game,3333.64,6308.05,SELL003
+PROD00244,Puzzle Variant 1,Toys,Puzzle,2753.59,4549.33,SELL039
+PROD00245,Puzzle Variant 2,Toys,Puzzle,3796.94,6215.91,SELL017
+PROD00246,Puzzle Variant 3,Toys,Puzzle,4070.19,8011.14,SELL022
+PROD00247,Remote Car Variant 1,Toys,Remote Car,3656.35,7341.91,SELL047
+PROD00248,Remote Car Variant 2,Toys,Remote Car,4649.98,10128.22,SELL036
+PROD00249,Remote Car Variant 3,Toys,Remote Car,2001.74,4279.09,SELL035
+PROD00250,Doll Variant 1,Toys,Doll,2371.16,4610.44,SELL034
+PROD00251,Doll Variant 2,Toys,Doll,1374.49,3365.3,SELL016
+PROD00252,Doll Variant 3,Toys,Doll,746.18,910.14,SELL018
+PROD00253,Building Blocks Variant 1,Toys,Building Blocks,519.13,791.63,SELL022
+PROD00254,Building Blocks Variant 2,Toys,Building Blocks,2898.3,3623.42,SELL018
+PROD00255,Building Blocks Variant 3,Toys,Building Blocks,3330.23,7383.63,SELL039
+PROD00256,Lego Set Variant 1,Toys,Lego Set,160.46,256.57,SELL017
+PROD00257,Lego Set Variant 2,Toys,Lego Set,4253.2,6379.799999999999,SELL001
+PROD00258,Lego Set Variant 3,Toys,Lego Set,2385.55,5858.08,SELL036
+PROD00259,Outdoor Game Variant 1,Toys,Outdoor Game,1167.43,1489.83,SELL018
+PROD00260,Outdoor Game Variant 2,Toys,Outdoor Game,4495.52,8617.38,SELL029
+PROD00261,Outdoor Game Variant 3,Toys,Outdoor Game,981.04,2154.14,SELL032
+PROD00262,Stuffed Toy Variant 1,Toys,Stuffed Toy,723.39,1460.84,SELL040
+PROD00263,Stuffed Toy Variant 2,Toys,Stuffed Toy,3314.29,4979.64,SELL012
+PROD00264,Stuffed Toy Variant 3,Toys,Stuffed Toy,3453.76,8008.38,SELL003
+PROD00265,Drum Variant 1,Toys,Drum,2811.7,4207.25,SELL017
+PROD00266,Drum Variant 2,Toys,Drum,4878.88,5956.89,SELL023
+PROD00267,Drum Variant 3,Toys,Drum,2748.16,3457.61,SELL007
+PROD00268,Puzzle Book Variant 1,Toys,Puzzle Book,479.65,852.32,SELL016
+PROD00269,Puzzle Book Variant 2,Toys,Puzzle Book,1099.81,2135.25,SELL044
+PROD00270,Puzzle Book Variant 3,Toys,Puzzle Book,2138.25,4350.17,SELL010
+PROD00271,Car Cover Variant 1,Automotive,Car Cover,221.0,439.58,SELL027
+PROD00272,Car Cover Variant 2,Automotive,Car Cover,4497.22,7587.4,SELL019
+PROD00273,Car Cover Variant 3,Automotive,Car Cover,3147.39,4432.81,SELL010
+PROD00274,Floor Mat Variant 1,Automotive,Floor Mat,4568.18,5633.46,SELL021
+PROD00275,Floor Mat Variant 2,Automotive,Floor Mat,2602.9,5765.78,SELL038
+PROD00276,Floor Mat Variant 3,Automotive,Floor Mat,3592.92,8701.77,SELL038
+PROD00277,Air Freshener Variant 1,Automotive,Air Freshener,259.74,556.92,SELL042
+PROD00278,Air Freshener Variant 2,Automotive,Air Freshener,484.38,629.94,SELL015
+PROD00279,Air Freshener Variant 3,Automotive,Air Freshener,2870.47,7168.01,SELL047
+PROD00280,Phone Mount Variant 1,Automotive,Phone Mount,2148.59,4625.83,SELL034
+PROD00281,Phone Mount Variant 2,Automotive,Phone Mount,4011.21,7979.23,SELL034
+PROD00282,Phone Mount Variant 3,Automotive,Phone Mount,2260.99,3504.39,SELL019
+PROD00283,Dash Cam Variant 1,Automotive,Dash Cam,4564.24,7427.34,SELL024
+PROD00284,Dash Cam Variant 2,Automotive,Dash Cam,1231.36,1981.58,SELL045
+PROD00285,Dash Cam Variant 3,Automotive,Dash Cam,1281.13,2757.81,SELL024
+PROD00286,Seat Cover Variant 1,Automotive,Seat Cover,490.48,945.94,SELL024
+PROD00287,Seat Cover Variant 2,Automotive,Seat Cover,3301.32,6559.01,SELL027
+PROD00288,Seat Cover Variant 3,Automotive,Seat Cover,1225.84,2790.22,SELL035
+PROD00289,Wiper Blades Variant 1,Automotive,Wiper Blades,1300.23,3097.21,SELL043
+PROD00290,Wiper Blades Variant 2,Automotive,Wiper Blades,776.89,1195.14,SELL021
+PROD00291,Wiper Blades Variant 3,Automotive,Wiper Blades,678.02,1173.69,SELL010
+PROD00292,Toolkit Variant 1,Automotive,Toolkit,2922.46,5910.44,SELL012
+PROD00293,Toolkit Variant 2,Automotive,Toolkit,4394.39,5361.88,SELL017
+PROD00294,Toolkit Variant 3,Automotive,Toolkit,3851.0,8182.59,SELL007
+PROD00295,Tyre Inflator Variant 1,Automotive,Tyre Inflator,719.35,895.09,SELL045
+PROD00296,Tyre Inflator Variant 2,Automotive,Tyre Inflator,917.98,1188.71,SELL034
+PROD00297,Tyre Inflator Variant 3,Automotive,Tyre Inflator,4601.25,10930.45,SELL026
+PROD00298,Jump Starter Variant 1,Automotive,Jump Starter,3514.95,5321.16,SELL022
+PROD00299,Jump Starter Variant 2,Automotive,Jump Starter,4497.39,10649.19,SELL040
+PROD00300,Jump Starter Variant 3,Automotive,Jump Starter,628.08,1343.36,SELL023

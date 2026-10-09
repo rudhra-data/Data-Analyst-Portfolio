@@ -1,0 +1,178 @@
+# DAX MEASURES - RetailEdge Power BI
+# Copy these into Power BI Data Model
+
+# ============================================
+# BASE MEASURES
+# ============================================
+
+Total Revenue = 
+SUM(fact_order_items[line_total])
+
+Total Cost = 
+[Total Revenue] - [Total Profit]
+
+Total Profit = 
+SUM(fact_order_items[profit])
+
+Total Orders = 
+DISTINCTCOUNT(fact_order_items[order_id])
+
+Total Customers = 
+DISTINCTCOUNT(fact_order_items[customer_id])
+
+Total Items = 
+SUM(fact_order_items[quantity])
+
+# ============================================
+# REVENUE MEASURES
+# ============================================
+
+Net Revenue = 
+[Total Revenue] - [Total Refunds]
+
+Total Refunds = 
+SUM(fact_refunds[refund_amount])
+
+Average Order Value = 
+DIVIDE([Total Revenue], [Total Orders], 0)
+
+Average Item Value = 
+DIVIDE([Total Revenue], [Total Items], 0)
+
+Revenue Per Customer = 
+DIVIDE([Total Revenue], [Total Customers], 0)
+
+# ============================================
+# GROWTH MEASURES
+# ============================================
+
+Revenue MoM Growth = 
+VAR CurrentMonth = [Total Revenue]
+VAR PreviousMonth = CALCULATE(
+    [Total Revenue], 
+    DATEADD(dim_date[full_date], -1, MONTH)
+)
+RETURN
+DIVIDE(CurrentMonth - PreviousMonth, PreviousMonth, 0)
+
+Revenue MoM Growth % = 
+[Revenue MoM Growth] * 100
+
+Revenue YoY Growth = 
+VAR CurrentYear = [Total Revenue]
+VAR PreviousYear = CALCULATE(
+    [Total Revenue], 
+    DATEADD(dim_date[full_date], -1, YEAR)
+)
+RETURN
+DIVIDE(CurrentYear - PreviousYear, PreviousYear, 0)
+
+# ============================================
+# CUSTOMER MEASURES
+# ============================================
+
+Repeat Customer Rate = 
+VAR CustomersWithMultipleOrders = 
+    CALCULATE(
+        DISTINCTCOUNT(fact_order_items[customer_id]),
+        FILTER(
+            SUMMARIZE(fact_order_items, fact_order_items[customer_id], "OrderCount", DISTINCTCOUNT(fact_order_items[order_id])),
+            [OrderCount] > 1
+        )
+    )
+RETURN
+DIVIDE(CustomersWithMultipleOrders, [Total Customers], 0)
+
+Churn Rate = 
+VAR LatestYM = INT(MAX(fact_order_items[date_key]) / 100)
+VAR LatestIndex = INT(LatestYM / 100) * 12 + MOD(LatestYM, 100)
+VAR LostCustomers =
+    COUNTROWS(
+        FILTER(
+            SUMMARIZE(
+                fact_order_items,
+                fact_order_items[customer_id],
+                "LastYM", INT(MAX(fact_order_items[date_key]) / 100)
+            ),
+            INT([LastYM] / 100) * 12 + MOD([LastYM], 100) <= LatestIndex - 6
+        )
+    )
+RETURN
+DIVIDE(LostCustomers, [Total Customers], 0)
+
+# ============================================
+# REFUND MEASURES
+# ============================================
+
+Refund Rate = 
+DIVIDE([Total Refunds], [Total Revenue], 0)
+
+Refund Rate % = 
+[Refund Rate] * 100
+
+# ============================================
+# PAYMENT MEASURES
+# ============================================
+
+Total Payments = 
+SUM(fact_payments[amount_paid])
+
+Payment Match Rate = 
+VAR TotalPayments = COUNTROWS(fact_payments)
+VAR MatchedPayments =
+    CALCULATE(
+        COUNTROWS(fact_payments),
+        FILTER(fact_payments, ABS(fact_payments[payment_gap]) <= 0.01)
+    )
+RETURN
+DIVIDE(MatchedPayments, TotalPayments, 0)
+
+Payment Discrepancy = 
+VAR Overpaid = 
+    CALCULATE(
+        SUM(fact_payments[payment_gap]),
+        fact_payments[payment_gap] < 0
+    )
+VAR Underpaid = 
+    CALCULATE(
+        SUM(fact_payments[payment_gap]),
+        fact_payments[payment_gap] > 0
+    )
+RETURN
+ABS(Overpaid) + Underpaid
+
+# ============================================
+# LEAKAGE MEASURES
+# ============================================
+
+Revenue Leakage = 
+[Payment Discrepancy] + [Total Refunds]
+
+Revenue Leakage % = 
+DIVIDE([Revenue Leakage], [Total Revenue], 0) * 100
+
+# ============================================
+# PROFIT MEASURES
+# ============================================
+
+Profit Margin = 
+DIVIDE([Total Profit], [Total Revenue], 0) * 100
+
+# ============================================
+# TIME INTELLIGENCE MEASURES
+# ============================================
+
+MTD Revenue = 
+TOTALMTD([Total Revenue], dim_date[full_date])
+
+QTD Revenue = 
+TOTALQTD([Total Revenue], dim_date[full_date])
+
+YTD Revenue = 
+TOTALYTD([Total Revenue], dim_date[full_date])
+
+# Rolling 3 Month Revenue = 
+# CALCULATE(
+#     [Total Revenue],
+#     DATESINPERIOD(dim_date[full_date], MAX(dim_date[full_date]), -3, MONTH)
+# )

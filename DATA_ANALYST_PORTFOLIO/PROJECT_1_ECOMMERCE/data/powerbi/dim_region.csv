@@ -1,0 +1,11 @@
+region_id,region_name,country,tier,total_orders,total_revenue
+1,North,India,Tier 1,491,6828105.24
+2,South,India,Tier 1,479,6587142.86
+3,East,India,Tier 2,517,7396235.11
+4,West,India,Tier 2,485,7007593.9
+5,Central,India,Tier 3,486,6837759.36
+6,Northeast,India,Tier 1,518,7057395.46
+7,Northwest,India,Tier 3,515,7270148.38
+8,Southeast,India,Tier 2,483,6899854.96
+9,Southwest,India,Tier 3,524,6945546.8
+10,Metro,India,Tier 1,502,7106920.69

@@ -1,0 +1,11 @@
+region_id,region_name,country,tier
+1,North,India,Tier 1
+2,South,India,Tier 1
+3,East,India,Tier 2
+4,West,India,Tier 2
+5,Central,India,Tier 3
+6,Northeast,India,Tier 1
+7,Northwest,India,Tier 3
+8,Southeast,India,Tier 2
+9,Southwest,India,Tier 3
+10,Metro,India,Tier 1
